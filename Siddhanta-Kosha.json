@@ -1,0 +1,1387 @@
+[
+    {
+        "name": "Ama (आम)",
+        "category": "General Concepts",
+        "shloka": "ऊष्मणोऽल्पबलत्वेन धातुमाद्यमपाचितम्। दुष्टमामाशयगतं रसमामं प्रचक्षते॥",
+        "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 13/25)",
+        "explanation": "Ama is a toxic, sticky byproduct of incomplete digestion, formed when the digestive fire (Agni) is weak. This improperly digested food essence (Ahara Rasa) is not assimilated by the body. Instead, it stagnates in the gastrointestinal tract (Amashaya), ferments, and putrefies. This substance can then enter circulation and block the body's channels (Srotas), leading to a wide range of diseases.",
+        "clinical_importance": "The presence of Ama is a key diagnostic factor. The primary line of treatment for most chronic diseases involves Ama Pachana (digesting the toxins) and strengthening Agni, before administering any other specific therapies."
+    },
+    {
+        "name": "Srotas (स्रोतस्)",
+        "category": "General Concepts",
+        "shloka": "स्रोतांसि खलु परिणाममापद्यमानानां धातूनाम् अभिवाहीनि भवन्ति अयनार्थेन।",
+        "shloka_ref": "(Charaka Samhita, Vimanasthana 5/3)",
+        "explanation": "Srotas are the channels or transport systems within the body. They are responsible for carrying Doshas, Dhatus (tissues), and Malas (waste products) throughout the body. There are numerous Srotas, but Ayurveda describes 13 principal channels, such as Pranavaha Srotas (carrying prana/breath), Annavaha Srotas (carrying food), and Udakavaha Srotas (carrying water).",
+        "clinical_importance": "Disease is often understood as a blockage or dysfunction (Sroto Dushti) within these channels. Ayurvedic treatments like Panchakarma are designed to clear these blockages and restore the proper flow of substances through the Srotas."
+    },
+    {
+        "name": "Pancha Mahabhuta (पञ्चमहाभूत)",
+        "category": "General Concepts",
+        "shloka": "सर्वं द्रव्यं पाञ्चभौतिकमस्मिन्नर्थे।",
+        "shloka_ref": "(Charaka Samhita, Sutrasthana 26/10)",
+        "explanation": "The Pancha Mahabhuta theory states that all matter in the universe, including the human body, is composed of five great elements: Akasha (Ether/Space), Vayu (Air), Agni/Teja (Fire), Jala/Apas (Water), and Prithvi (Earth). The Doshas, Dhatus, and all substances are derived from unique combinations of these five elements.",
+        "clinical_importance": "This theory is the bedrock of Ayurvedic philosophy, diagnosis, and treatment. The properties (Gunas) of any food, herb, or even a disease are understood through the lens of its dominant elemental composition. Treatment involves using substances with an elemental makeup that can restore balance."
+    },
+    {
+        "name": "Swastha (स्वस्थ)",
+        "category": "General Concepts",
+        "shloka": "समदोषः समाग्निश्च समधातुमलक्रियः। प्रसन्नात्मेन्द्रियमनाः स्वस्थ इत्यभिधीयते॥",
+        "shloka_ref": "(Sushruta Samhita, Sutrasthana 15/41)",
+        "explanation": "This is the comprehensive Ayurvedic definition of health. A healthy person (Swastha) is one whose Doshas are in equilibrium, whose Agni (digestive fire) is balanced, whose Dhatus (tissues) and Malas (wastes) are functioning properly, and whose soul (Atma), senses (Indriya), and mind (Manas) are in a state of प्रसन्नता (Prasannata) - a state of blissful contentment.",
+        "clinical_importance": "This definition highlights the holistic nature of Ayurveda. Health is not merely the absence of symptoms but a positive state of physical, mental, and spiritual well-being. Treatment aims to restore this complete state of balance."
+    },
+    
+    {
+        "name": "Dosha (दोष)",
+        "category": "Dosha",
+        "shloka": "वायुः पित्तं कफश्चेति त्रयो दोषाः समासतः। विकृताविकृता देहं घ्नन्ति ते वर्तयन्ति च॥",
+        "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/6)",
+        "explanation": "The three Doshas—Vata, Pitta, and Kapha—are the primary life forces or biological humors that govern all physiological and psychological functions of the body. In their balanced state (Avikrita), they maintain health and life. In their imbalanced state (Vikrita), they cause disease and lead to the destruction of the body.",
+        "clinical_importance": "Diagnosis in Ayurveda is fundamentally based on identifying the state of the Doshas. All treatment aims to restore the Doshas to their state of equilibrium (Dosha Samya)."
+    },
+    {
+        "name": "Prakriti (प्रकृति)",
+        "category": "Dosha",
+        "shloka": "शुक्रशोणितसंयोगे यो भवेद्दोष उत्कटः। प्रकृतिर्जायते तेन...॥",
+        "shloka_ref": "(Sushruta Samhita, Sharirasthana 4/63)",
+        "explanation": "Prakriti is an individual's unique and unchanging mind-body constitution, which is determined at the moment of conception based on the predominant Dosha(s) in the parents' sperm (Shukra) and ovum (Shonita). This forms a lifelong blueprint that governs one's physical characteristics, metabolic tendencies, and psychological nature.",
+        "clinical_importance": "Assessing a patient's Prakriti is the first step in personalized Ayurvedic medicine. It allows the physician to provide tailored recommendations for diet, lifestyle, and preventive care to maintain health and prevent diseases to which the individual is naturally susceptible."
+    },
+    {
+        "name": "Vikriti (विकृति)",
+        "category": "Dosha",
+        "shloka": "विकृतिर्विषमे देहे साम्यं प्रकृतिरुच्यते।",
+        "shloka_ref": "(Charaka Samhita, Sutrasthana 9/4)",
+        "explanation": "Vikriti represents the current state of doshic imbalance in the body, which is the deviation from one's natural constitution (Prakriti). While Prakriti is fixed, Vikriti is dynamic and changes based on diet, lifestyle, seasons, and stress. It is the state of 'disease' or 'being off-balance'.",
+        "clinical_importance": "A physician diagnoses disease by comparing the patient's current imbalanced state (Vikriti) with their baseline constitution (Prakriti). The goal of treatment is to pacify the aggravated doshas of the Vikriti and guide the body back towards the harmony of its Prakriti."
+    },
+    {
+        "name": "Prana (प्राण)",
+        "category": "Dosha",
+        "shloka": "Concept described contextually",
+        "shloka_ref": "(Various Samhitas)",
+        "explanation": "Prana is the subtle essence of Vata dosha, the fundamental life force or vital energy that animates all living beings. It governs all higher cerebral functions, the senses, the mind, and the heart. It is the energy that we take in through breath, food, and sensory perception.",
+        "clinical_importance": "Prana, Ojas, and Tejas are the three subtle life energies. When Prana is balanced, the mind is calm and the body is full of life. Practices like Pranayama (breathing exercises) are specifically designed to enhance and regulate the flow of Prana in the body."
+    },
+    
+    {
+        "name": "Dhatu (धातु)",
+        "category": "Dhatu",
+        "shloka": "रसासृङ्मांसमेदोऽस्थिमज्जशुक्राणि धातवः। सप्त दूष्याः, मलाः पुनः शकृन्मूत्रस्वेददयोऽपि च॥",
+        "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/13)",
+        "explanation": "The Dhatus are the seven fundamental tissues that form the structure of the body. They are Rasa (Plasma), Rakta (Blood), Mamsa (Muscle), Meda (Fat), Asthi (Bone), Majja (Marrow/Nerve Tissue), and Shukra (Reproductive Tissue). Each Dhatu is formed from the preceding one in a sequential process of nourishment, governed by the respective Dhatvagnis. They are also known as 'Dushyas' because they are the sites that can be vitiated by imbalanced Doshas.",
+        "clinical_importance": "The health of an individual depends on the proper formation and function of all seven Dhatus. Many diseases are diagnosed based on which Dhatu is affected (e.g., Asthigata Vata for osteoarthritis)."
+    },
+    {
+        "name": "Ojas (ओजस्)",
+        "category": "Dhatu",
+        "shloka": "यत् सारभूतं धातूनां तत् ओजः परिकीर्त्यते।",
+        "shloka_ref": "(Classical Interpretation)",
+        "explanation": "Ojas is the supreme essence of all the body tissues (Dhatus), formed as the final and most refined product of metabolism. It is the primary source of vitality, immunity, and resilience in the body. It is described as having the color of ghee, the smell of fried paddy, and the taste of honey.",
+        "clinical_importance": "A person with strong Ojas has a radiant complexion, strong immunity, and stable mental energy. Depletion of Ojas (Ojo-Kshaya) due to chronic illness, stress, or malnutrition leads to weakness, susceptibility to disease, and fear. Building Ojas is a key goal in rejuvenative (Rasayana) therapy."
+    },
+    
+    {
+        "name": "Mala (मल)",
+        "category": "Mala",
+        "shloka": "विण्मूत्रस्वेदादयो मलाः।",
+        "shloka_ref": "(Sushruta Samhita, Sutrasthana 15/3)",
+        "explanation": "Malas are the waste products of the body that are formed as a result of metabolic processes. The three primary Malas are Purisha (feces), Mutra (urine), and Sweda (sweat). Proper and timely elimination of these wastes is essential for maintaining health. Their retention or abnormal excretion is a sign of disease.",
+        "clinical_importance": "The examination of Malas (Mala Pariksha) is an important diagnostic tool. The frequency, consistency, color, and odor of feces and urine provide valuable clues about the state of Agni and the Doshas."
+    },
+    
+    {
+        "name": "Agni (अग्नि)",
+        "category": "Agni",
+        "shloka": "शान्तेऽग्नौ म्रियते, युक्ते चिरं जीवत्यनामयः। रोगी स्याद्विकृते, मूलमग्निस्तस्मान्निरुच्यते॥",
+        "shloka_ref": "(Charaka Samhita, Chikitsasthana 15/4)",
+        "explanation": "Agni is the biological fire or metabolic energy of the body. It governs all transformation processes, from the digestion of food to cellular metabolism. When Agni is extinguished, one dies. When it is functioning optimally (Yukta), one lives a long, disease-free life. When it is deranged (Vikrute), one becomes a patient. Therefore, Agni is considered the root cause of health and disease. There are 13 types of Agni in total: 1 Jatharagni (main digestive fire), 5 Bhutagnis (elemental fires), and 7 Dhatvagnis (tissue fires).",
+        "clinical_importance": "The assessment of Agni is paramount in clinical practice. Most diseases are considered to originate from a dysfunctional Agni (Mandagni), which leads to the formation of Ama (toxins)."
+    },
+    {
+        "name": "Tejas (तेजस्)",
+        "category": "Agni",
+        "shloka": "Concept described contextually",
+        "shloka_ref": "(Various Samhitas)",
+        "explanation": "Tejas is the subtle, positive essence of Pitta dosha and Agni. It is the energy of intelligence, discrimination, and all forms of transformation. While Agni is the gross fire, Tejas is the subtle warmth and light of consciousness that governs cellular intelligence and metabolism.",
+        "clinical_importance": "Healthy Tejas leads to a sharp intellect, courage, and a bright aura. It is responsible for the digestion of subtle impressions and thoughts. Imbalanced Tejas can lead to a lack of clarity or a 'burnt out' state."
+    },
+    
+    {
+        "name": "Rasa (रस)",
+        "category": "Dravya Guna",
+        "shloka": "स्वाद्वम्ललवणतिक्तकटुकषायाः रसाः।",
+        "shloka_ref": "(Charaka Samhita, Sutrasthana 26/8)",
+        "explanation": "Rasa refers to the taste of a substance, which is the first and most immediate pharmacological action on the body. There are six primary tastes (Rasas): Madhura (Sweet), Amla (Sour), Lavana (Salty), Katu (Pungent), Tikta (Bitter), and Kashaya (Astringent). Each taste is composed of a unique combination of the five elements (Pancha Mahabhutas) and has a specific effect on the Doshas.",
+        "clinical_importance": "Ayurvedic dietetics and pharmacology are based on the principle of Rasa. Foods and herbs are prescribed based on their taste to either pacify or aggravate specific Doshas. For example, sweet taste pacifies Vata and Pitta but aggravates Kapha."
+    },
+    {
+        "name": "Guna (गुण)",
+        "category": "Dravya Guna",
+        "shloka": "गुरुमन्दहिमस्निग्धश्लक्ष्णसान्द्रमृदुस्थिराः। गुणाः ससूक्ष्मविशदा विंशतिः सविपर्ययाः॥",
+        "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/18)",
+        "explanation": "Gunas are the 20 fundamental qualities or attributes that are present in all substances. They are organized into 10 pairs of opposites: Guru (Heavy) / Laghu (Light), Manda (Slow) / Tikshna (Sharp), Hima (Cold) / Ushna (Hot), Snigdha (Oily) / Ruksha (Dry), Shlakshna (Smooth) / Khara (Rough), Sandra (Dense) / Drava (Liquid), Mridu (Soft) / Kathina (Hard), Sthira (Stable) / Chala (Mobile), Sukshma (Subtle) / Sthula (Gross), and Vishada (Clear) / Picchila (Sticky).",
+        "clinical_importance": "The core principle of Ayurvedic treatment is 'Samanya-Vishesha Siddhanta', which states that 'like increases like' and 'opposites decrease'. To treat a condition with dry and cold qualities (like Vata imbalance), one applies substances with opposite qualities, i.e., oily and hot."
+    },
+    {
+        "name": "Virya (वीर्य)",
+        "category": "Dravya Guna",
+        "shloka": "वीर्यं द्विविधं - उष्णं शीतं च।",
+        "shloka_ref": "(Classical Interpretation)",
+        "explanation": "Virya is the potency or active energy of a substance, which determines its heating or cooling effect on the body. There are two primary types of Virya: Ushna (Heating) and Sheeta (Cooling). This property is more powerful than Rasa and determines the substance's effect on metabolism and Pitta dosha.",
+        "clinical_importance": "Herbs are classified based on their Virya to treat conditions of excess heat or cold. For instance, cooling (Sheeta Virya) herbs like Sandalwood are used for Pitta conditions like burning sensations, while heating (Ushna Virya) herbs like Ginger are used for Kapha and Vata conditions like cold and congestion."
+    },
+    {
+        "name": "Vipaka (विपाक)",
+        "category": "Dravya Guna",
+        "shloka": "त्रिधा विपाको द्रव्यस्य स्वाद्वम्लकटुकात्मकः।",
+        "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 9/20)",
+        "explanation": "Vipaka is the post-digestive effect of a substance, which occurs after it has been fully metabolized by Agni. While there are six tastes (Rasas), there are only three Vipakas: Madhura (Sweet), Amla (Sour), and Katu (Pungent). Sweet and Salty tastes generally have a Madhura Vipaka. Sour taste has an Amla Vipaka. Pungent, Bitter, and Astringent tastes generally have a Katu Vipaka.",
+        "clinical_importance": "Vipaka has a long-term, systemic effect on the body and the Doshas. It is more subtle and powerful than Rasa and Virya. For example, milk is sweet (Madhura Rasa) and cooling (Sheeta Virya), but its final effect is also sweet (Madhura Vipaka), making it highly nourishing."
+    },
+    {
+        "name": "Prabhava (प्रभाव)",
+        "category": "Dravya Guna",
+        "shloka": "रसवीर्यविपाकानां सामान्यं यत्र कर्मणाम्। विशेषः कर्मणां चैव प्रभावस्तस्य स स्मृतः॥",
+        "shloka_ref": "(Charaka Samhita, Sutrasthana 26/67)",
+        "explanation": "Prabhava is the 'special action' of a substance that cannot be explained by its Rasa, Guna, Virya, or Vipaka alone. It is an inexplicable, unique potency. For example, both ghee and milk are sweet and cooling, but only ghee enhances digestive fire (Agni deepana) - this is its Prabhava.",
+        "clinical_importance": "Prabhava explains why certain herbs have very specific and powerful effects that defy simple classification. For example, Brahmi's specific action on the intellect (Medhya) is considered its Prabhava."
+    },
+    {
+        "name": "Karma (कर्म)",
+        "category": "Dravya Guna",
+        "shloka": "Concept described through examples",
+        "shloka_ref": "(Dravya Guna Texts)",
+        "explanation": "Karma refers to the pharmacological action of a substance (Dravya) on the body. These actions are numerous and describe how an herb or food affects specific bodily functions or systems. Examples include 'Deepana' (appetizer), 'Pachana' (digestive), 'Rasayana' (rejuvenative), and 'Virechana' (purgative).",
+        "clinical_importance": "Herbs are selected for formulations based on their specific Karma. A formula for indigestion would include herbs with Deepana and Pachana karma. This is the practical application of understanding a substance's properties."
+    },
+    
+    {
+        "name": "Nidana Panchaka (निदान पञ्चक)",
+        "category": "Roga Nidana",
+        "shloka": "निदानं पूर्वरूपाणि रूपाण्युपशयस्तथा। सम्प्राप्तिश्चेति विज्ञानं रोगाणां पञ्चधा स्मृतम्॥",
+        "shloka_ref": "(Madhava Nidana 1/4)",
+        "explanation": "The Nidana Panchaka are the five fundamental tools used for diagnosing a disease. They are: 1. Nidana (Causative Factors), 2. Purvarupa (Prodromal/Premonitory Symptoms), 3. Rupa (Cardinal Signs and Symptoms), 4. Upashaya/Anupashaya (Therapeutic/Aggravating Trials), and 5. Samprapti (Pathogenesis).",
+        "clinical_importance": "This five-fold examination provides a complete picture of a disease, from its cause to its full manifestation. It allows for a precise diagnosis and helps in determining the prognosis and line of treatment."
+    },
+    {
+        "name": "Samprapti (सम्प्राप्ति)",
+        "category": "Roga Nidana",
+        "shloka": "यथा दुष्टेन दोषेण यथा चानुविसर्पता। निर्वृत्तिरामयस्यासौ सम्प्राप्तिर्जातिरागतिः॥",
+        "shloka_ref": "(Charaka Samhita, Nidanasthana 1/19)",
+        "explanation": "Samprapti is the pathogenesis, or the step-by-step process of how a disease develops. It describes the journey of the aggravated Doshas from their site of origin, their movement through the Srotas, their lodging in a weak Dhatu, and the final manifestation of symptoms. It is often described in six stages (Shat Kriya Kala).",
+        "clinical_importance": "Understanding the Samprapti is more important than just naming the disease. It allows the physician to interrupt the disease process at its source. 'Samprapti Vighatana' (breaking the pathogenesis) is the primary aim of Ayurvedic treatment."
+    },
+    {
+        "name": "Shat Kriya Kala (षट्क्रियाकाल)",
+        "category": "Roga Nidana",
+        "shloka": "सञ्चयं च प्रकोपं च प्रसरं स्थानसंश्रयम्। व्यक्तिं भेदं च यो वेत्ति दोषाणां स भवेद् भिषक्॥",
+        "shloka_ref": "(Sushruta Samhita, Sutrasthana 21/36)",
+        "explanation": "These are the six stages of disease manifestation, which describe the full journey of Samprapti. They are: 1. Sanchaya (Accumulation of doshas), 2. Prakopa (Aggravation), 3. Prasara (Spreading), 4. Sthana Samshraya (Localization in a weak site), 5. Vyakti (Manifestation of clear symptoms), and 6. Bheda (Differentiation/Complications).",
+        "clinical_importance": "A skilled physician can identify a disease in its early stages (1-4) before it fully manifests, allowing for easier treatment and prevention. Treating a disease in the Sanchaya or Prakopa stage is much simpler than in the Vyakti or Bheda stage."
+    },
+    
+    {
+        "name": "Samanya-Vishesha (सामान्य-विशेष)",
+        "category": "Chikitsa",
+        "shloka": "सर्वदा सर्वभावानां सामान्यं वृद्धिकारणम्। ह्रासहेतुर्विशेषश्च प्रवृत्तिरुभयस्य तु॥",
+        "shloka_ref": "(Charaka Samhita, Sutrasthana 1/44)",
+        "explanation": "This is the foundational principle of Ayurvedic treatment. The 'Samanya' principle states that 'like increases like' (e.g., consuming heavy foods increases the heavy Kapha dosha). The 'Vishesha' principle states that 'opposites decrease or balance' (e.g., consuming light foods will decrease Kapha). 'Pravritti' refers to the application of both principles to maintain balance.",
+        "clinical_importance": "Every Ayurvedic prescription, whether dietary or herbal, is based on this logic. To reduce a quality (Guna) that is in excess, one administers substances with the opposite quality. To nourish a deficient quality, one administers substances with a similar quality."
+    },
+    {
+        "name": "Shamana Chikitsa (शमन चिकित्सा)",
+        "category": "Chikitsa",
+        "shloka": "Concept described contextually",
+        "shloka_ref": "(Charaka Samhita)",
+        "explanation": "Shamana Chikitsa is a palliative or pacifying form of treatment. It aims to balance the aggravated Doshas within the body without expelling them. This is achieved through the use of digestive herbs (Deepana, Pachana), fasting (Langhana), exercise (Vyayama), and other gentle therapies that restore equilibrium.",
+        "clinical_importance": "Shamana is the most common form of treatment used for mild to moderate diseases, for weaker patients, and for managing symptoms. It is less intensive than Shodhana therapy."
+    },
+    {
+        "name": "Shodhana Chikitsa (शोधन चिकित्सा)",
+        "category": "Chikitsa",
+        "shloka": "दोषाः कदाचित् कुप्यन्ति जिता लङ्घनपाचनैः। जिताः संशोधनैर्ये तु न तेषां पुनरुद्भवः॥",
+        "shloka_ref": "(Charaka Samhita, Sutrasthana 16/20)",
+        "explanation": "Shodhana Chikitsa is a purificatory or detoxification therapy that aims to forcibly expel the aggravated Doshas and accumulated toxins from the body. The verse states that doshas pacified by gentle methods (Shamana) may re-aggravate, but those eliminated by Shodhana are unlikely to cause recurrence. The primary Shodhana therapies are collectively known as Panchakarma.",
+        "clinical_importance": "Shodhana is recommended for strong patients with chronic or severe diseases where the doshic imbalance is deep-seated. It is considered a radical cure that cleanses the body from its roots."
+    },
+ 
+{
+    "name": "Panchakarma (पञ्चकर्म)",
+    "category": "Chikitsa",
+    "shloka": "वमनं रेचनं नावनं तथा। निरूहश्चानुवासनं चैव पञ्चकर्माणि॥",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 2/7 - Interpreted)",
+    "explanation": "Panchakarma refers to the five primary procedures of Shodhana (purification) therapy. They are Vamana (therapeutic emesis), Virechana (therapeutic purgation), Nasya (nasal administration of medicine), and two types of Basti (medicated enema): Niruha (decoction-based) and Anuvasana (oil-based). These procedures are designed to eliminate aggravated doshas and toxins from their root sites in the body.",
+    "clinical_importance": "Panchakarma is the cornerstone of Ayurvedic detoxification. It is indicated for deep-seated chronic diseases and for seasonal purification (Ritu Shodhana) to maintain health. A thorough understanding of its indications, contraindications, and procedures is essential for any clinician."
+},
+{
+    "name": "Rasayana (रसायन)",
+    "category": "Chikitsa",
+    "shloka": "लाभोपायो हि शस्तानां रसादीनां रसायनम्।",
+    "shloka_ref": "(Charaka Samhita, Chikitsasthana 1/1/7-8)",
+    "explanation": "Rasayana is the branch of Ayurveda that deals with rejuvenation and the promotion of longevity. It literally means 'the path of Rasa (essence)'. The goal of Rasayana therapy is to nourish all the Dhatus, build Ojas, enhance immunity, improve mental function (Medha), and prevent the effects of aging.",
+    "clinical_importance": "Rasayana therapy is not just for the elderly; it is used for convalescence after illness, for reducing the side effects of other treatments, and for anyone seeking to improve their vitality. Herbs like Amalaki and Ashwagandha are prime examples of Rasayana dravyas."
+},
+{
+    "name": "Vajikarana (वाजीकरण)",
+    "category": "Chikitsa",
+    "shloka": "येन नारीषु सामर्थ्यं वाजीवल्लभते नरः।",
+    "shloka_ref": "(Sushruta Samhita, Chikitsasthana 26/3)",
+    "explanation": "Vajikarana is the branch of Ayurveda that deals with aphrodisiacs and therapies to enhance virility, sexual health, and the health of progeny. The word 'Vaji' means horse, symbolizing sexual potency and stamina. This therapy aims to nourish the Shukra Dhatu (reproductive tissue).",
+    "clinical_importance": "Vajikarana is used to treat conditions like infertility, erectile dysfunction, and low libido. It also focuses on the purification of the reproductive organs before conception to ensure a healthy child."
+},
+{
+    "name": "Pathya-Apathya (पथ्य-अपथ्य)",
+    "category": "Chikitsa",
+    "shloka": "पथ्यं पथोऽनपेतं यद्यच्चोक्तं मनसः प्रियम्। यच्चाप्रियमपथ्यं च नियतं तन्न लक्षयेत्॥",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 25/45)",
+    "explanation": "Pathya refers to diet, activities, and habits that are wholesome, beneficial for the body's channels (Srotas), and pleasing to the mind. Apathya is the opposite—that which is unwholesome, blocks the channels, and is disagreeable. The concept extends beyond just food to include lifestyle and mental habits.",
+    "clinical_importance": "Prescribing appropriate Pathya and Apathya is as important as prescribing medicine. Charaka states that if a patient follows a proper regimen (Pathya), there may be no need for medicine, but if they don't, medicine will be ineffective. It is a critical component of any treatment plan."
+},
+{
+    "name": "Anupana (अनुपान)",
+    "category": "Dravya Guna",
+    "shloka": "अनुपानं हितं स्निग्धं मारुते, पित्ते मधुरशिशिरं, कफे रूक्षोष्णम्।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 46/465)",
+    "explanation": "Anupana is a 'vehicle' or medium that is taken along with or after a medicine or food. Its purpose is to enhance the absorption, effectiveness (Yogavahi), and delivery of the main substance to the target tissue. Common anupanas include warm water, honey, ghee, and milk.",
+    "clinical_importance": "The choice of Anupana is crucial for the efficacy of a formulation. For example, taking a Vata-pacifying herb with warm water or ghee enhances its action, while taking a Kapha-pacifying herb with honey increases its scraping (Lekhana) quality."
+},
+
+{
+    "name": "Roga Marga (रोग मार्ग)",
+    "category": "Roga Nidana",
+    "shloka": "त्रयो रोगमार्गाः - शाखा, मर्मास्थिसन्धयः, कोष्ठश्च।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/48)",
+    "explanation": "The Roga Marga are the three main pathways or tracts where diseases can manifest. They are: 1. Shakha (External pathway: peripheral tissues like Rasa, Rakta, and skin), 2. Marma-Asthi-Sandhi (Middle pathway: vital points, bones, and joints), and 3. Koshtha (Internal pathway: the central visceral organs of the torso).",
+    "clinical_importance": "Identifying the Roga Marga helps determine the prognosis and treatment strategy. Diseases in the Shakha marga (like a skin rash) are generally easier to treat. Diseases in the Koshtha are of moderate difficulty, while those in the Marma-Asthi-Sandhi marga are considered the most difficult to cure."
+},
+{
+    "name": "Trividha Pariksha (त्रिविध परीक्षा)",
+    "category": "Roga Nidana",
+    "shloka": "दर्शनस्पर्शनप्रश्नैः परीक्षेत च रोगिणम्।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/22)",
+    "explanation": "This is the three-fold method of patient examination. It consists of: 1. Darshana (Observation: inspecting the patient's physical appearance, tongue, eyes, skin, etc.), 2. Sparshana (Palpation/Touch: feeling the pulse, skin temperature, and palpating different parts of the body), and 3. Prashna (Questioning: taking a detailed history of the patient's symptoms, diet, and lifestyle).",
+    "clinical_importance": "This triad forms the fundamental basis of Ayurvedic clinical diagnosis. No examination is complete without employing all three methods to gain a comprehensive understanding of the patient and their disease."
+},
+{
+    "name": "Ashtavidha Pariksha (अष्टविध परीक्षा)",
+    "category": "Roga Nidana",
+    "shloka": "नाडीं मूत्रं मलं जिह्वां शब्दं स्पर्शं दृगाकृतिम्। अष्टौ स्थानानि परीक्षेत रोगिणः।",
+    "shloka_ref": "(Yogaratnakara, Rogipariksha 1)",
+    "explanation": "This is the eight-fold method of patient examination, which provides more specific points of analysis. It includes: 1. Nadi (Pulse), 2. Mutra (Urine), 3. Mala (Stool), 4. Jihva (Tongue), 5. Shabda (Voice and other sounds), 6. Sparsha (Touch/Skin), 7. Drik (Eyes/Vision), and 8. Akriti (General appearance/Gait).",
+    "clinical_importance": "This systematic examination gives the physician detailed insights into the state of the patient's doshas, dhatus, and internal organs. Nadi Pariksha (pulse diagnosis) in particular is a highly sophisticated art and science within Ayurveda."
+},
+
+
+{
+    "name": "Upadhatu (उपधातु)",
+    "category": "Dhatu",
+    "shloka": "Concept described contextually",
+    "shloka_ref": "(Charaka & Sushruta Samhitas)",
+    "explanation": "Upadhatus are the secondary or accessory tissues that are formed as by-products during the transformation of one Dhatu to the next. They provide support and perform specific functions but do not nourish other tissues. Examples include Stanya (breast milk) and Artava (menstrual fluid) from Rasa Dhatu, and Kandara (tendons) and Sira (vessels) from Rakta Dhatu.",
+    "clinical_importance": "The health of the Upadhatus is an indicator of the health of their parent Dhatus. For example, issues with lactation (Stanya) point towards an imbalance in the Rasa Dhatu."
+},
+
+
+{
+    "name": "Dravya (द्रव्य)",
+    "category": "Dravya Guna",
+    "shloka": "यत्राश्रिताः कर्मगुणाः कारणं समवायि यत्। तत् द्रव्यम्...॥",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 1/51)",
+    "explanation": "Dravya means 'substance'. In Ayurveda, it is the substratum where the qualities (Guna) and actions (Karma) reside. It is the fundamental cause of any pharmacological effect. A dravya can be any substance in the universe, be it a plant, mineral, or animal product, as all are composed of the Pancha Mahabhutas.",
+    "clinical_importance": "Dravya Guna Vijnana (Ayurvedic pharmacology) is the science of understanding substances (Dravyas) and their properties. The entire practice of prescribing food and medicine is based on selecting the correct Dravya with the desired Gunas and Karma."
+},
+
+
+{
+    "name": "Manas (मनस्)",
+    "category": "General Concepts",
+    "shloka": "मनोबुद्धिरहंकारश्चित्तं करणमान्तरम्।",
+    "shloka_ref": "(Sankhya Karika - Interpreted)",
+    "explanation": "Manas is the mind, one of the four components of the 'Antahkarana' (inner instrument). Its primary function is 'Sankalpa-Vikalpa' (to think and doubt, to process sensory information). It acts as the bridge between the external senses (Indriyas) and the higher intellect (Buddhi). The qualities of the mind are described by the three Gunas (Sattva, Rajas, Tamas).",
+    "clinical_importance": "Mental health is central to Ayurveda. The state of the Manas directly impacts physical health and vice-versa (psychosomatic relationship). Treatments like meditation, mantras, and specific herbs (Medhya Rasayanas) are used to calm and clarify the Manas."
+},
+{
+    "name": "Atma (आत्मा)",
+    "category": "General Concepts",
+    "shloka": "स सर्वगः सर्वशरीरभृच्च स विश्वकर्मा स च विश्वरूपः।",
+    "shloka_ref": "(Charaka Samhita, Sharirasthana 1/72)",
+    "explanation": "Atma refers to the soul, the Self, or pure consciousness. In Ayurvedic and Sankhya philosophy, it is the non-material, eternal, and unchanging witness (Sakshi) within a living being. It is distinct from the mind (Manas) and body (Deha). The conjunction of Atma with the body, mind, and senses is what constitutes life.",
+    "clinical_importance": "While not directly 'treated', the ultimate goal of health is to create a state of physical and mental purity so that the Atma can be realized, leading to bliss (Ananda) and liberation (Moksha). The 'Prasannatma' (blissful soul) aspect of the definition of health refers to this state."
+},
+{
+    "name": "Indriya (इन्द्रिय)",
+    "category": "General Concepts",
+    "shloka": "Concept described contextually",
+    "shloka_ref": "(Various Samhitas)",
+    "explanation": "The Indriyas are the senses, which are the tools for perception and action. They are divided into two groups: the five Jnanendriyas (sense organs for perception: ear, skin, eye, tongue, nose) and the five Karmendriyas (motor organs for action: speech, hands, feet, organs of excretion and reproduction). The mind (Manas) is often considered the eleventh Indriya, coordinating both groups.",
+    "clinical_importance": "The health of the sense organs is crucial for well-being. Overuse, underuse, or misuse of the senses (Asatmya Indriyartha Samyoga) is a primary cause of disease. Ayurvedic treatments like Nasya (for the nose) and Akshi Tarpana (for the eyes) are aimed at nourishing and protecting the Indriyas."
+},
+{
+    "name": "Kala (काल)",
+    "category": "General Concepts",
+    "shloka": "कालः परिणामः।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 1/26 - part of definition of time)",
+    "explanation": "Kala means 'time'. In Ayurveda, time is a crucial factor that influences health and disease. This is considered in several contexts: the time of day (Dinacharya), the season (Ritucharya), the age of the patient (Vaya), and the stage of the disease (Kriya Kala). Kala is the force of transformation (Parinama).",
+    "clinical_importance": "Treatment is always administered with respect to Kala. For example, Kapha-aggravating foods are avoided at night, specific purification therapies are done in specific seasons, and the prognosis of a disease depends on how long it has been present."
+},
+{
+    "name": "Dravya Guna Karma (द्रव्य गुण कर्म)",
+    "category": "Dravya Guna",
+    "shloka": "द्रव्यमाश्रित्य तिष्ठन्ति गुणाः कर्माणि च ध्रुवम्।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "This triad represents the core of Ayurvedic pharmacology. Dravya is the substance itself. Guna are its inherent qualities (e.g., heavy, light, hot, cold). Karma is the action it performs on the body (e.g., laxative, digestive). The Gunas and Karma always reside within the Dravya and are inseparable from it.",
+    "clinical_importance": "To be an effective clinician, one must understand this relationship. A physician chooses a Dravya not just by its name, but by analyzing its Gunas and predicting its Karma on the patient's specific doshic imbalance. This is the essence of rational therapeutics in Ayurveda."
+},
+{
+    "name": "Hetu (हेतु)",
+    "category": "Roga Nidana",
+    "shloka": "त्रिविधो हेतुः असात्म्येन्द्रियार्थसंयोगः, प्रज्ञापराधाः, परिणामश्च।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 1/54)",
+    "explanation": "Hetu refers to the causative factors of a disease. Ayurveda classifies them into three main categories: 1. Asatmya Indriyartha Samyoga (improper use of the senses, e.g., staring at bright lights or listening to loud music), 2. Prajnaparadha (intellectual error or 'crimes against wisdom', e.g., knowingly eating unhealthy food or suppressing natural urges), and 3. Parinama (effects of time, such as seasonal changes and aging).",
+    "clinical_importance": "Identifying the specific Hetu is the first and most crucial step in diagnosis (Nidana Panchaka). Removing the cause (Nidana Parivarjana) is the primary line of treatment for any disease."
+},
+{
+    "name": "Upadrava (उपद्रव)",
+    "category": "Roga Nidana",
+    "shloka": "रोगारम्भक दोष प्रकोपानन्तरं यज्जायतेऽल्पं लक्षणं स उपद्रवः।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Upadrava refers to the complications or secondary symptoms that arise after the main disease has already manifested. They are caused by the same imbalanced doshas that caused the primary disease but appear later in the disease process.",
+    "clinical_importance": "The presence of Upadravas can make a disease more complex and difficult to treat. It is important to differentiate them from the main symptoms (Rupa) to understand the progression and severity of the illness."
+},
+{
+    "name": "Arishta (अरिष्ट)",
+    "category": "Roga Nidana",
+    "shloka": "नियतं मरणं यस्मात् तस्मादरिष्टमुच्यते।",
+    "shloka_ref": "(Charaka Samhita, Indriyasthana 1/4)",
+    "explanation": "Arishta signs are fatal or prognostic signs that indicate the incurability of a disease and the impending death of the patient. These are specific signs and symptoms related to the patient's physical appearance, behavior, and sensory perception that signify a complete collapse of the body's life-sustaining mechanisms.",
+    "clinical_importance": "The knowledge of Arishta signs is crucial for a physician to determine the prognosis of a disease. It helps in deciding whether to continue treatment or to focus on palliative care, and to inform the patient's family about the severity of the condition."
+},
+{
+    "name": "Dushya (दूष्य)",
+    "category": "Roga Nidana",
+    "shloka": "दोष दूष्य सम्मूर्छना रोगः।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Dushya is that which gets vitiated or afflicted by the aggravated Doshas. The primary Dushyas are the seven Dhatus (tissues) and the three Malas (waste products). Disease is formed when the aggravated Doshas (Dosha) interact with and vitiate the Dushyas.",
+    "clinical_importance": "The interaction between Dosha and Dushya (Dosha-Dushya Sammurchana) is the core of pathogenesis (Samprapti). Identifying both the specific imbalanced Dosha and the afflicted Dushya is necessary for a precise diagnosis and targeted treatment."
+},
+{
+    "name": "Aupasargika Roga (औपसर्गिक रोग)",
+    "category": "Roga Nidana",
+    "shloka": "प्रसङ्गाद् गात्रसंस्पर्शान्निश्वासात् सहभोजनात्। सहशय्यासनाच्चापि वस्त्रमाल्यानुलेपनात्॥ कुष्ठं ज्वरश्च शोषश्च नेत्राभिष्यन्द एव च। औपसर्गिकरोगाश्च संक्रामन्ति नरान्नरम्॥",
+    "shloka_ref": "(Sushruta Samhita, Nidanasthana 5/32-33)",
+    "explanation": "This concept describes communicable or infectious diseases. Sushruta explains that diseases like Kushtha (skin diseases), Jwara (fever), Shosha (tuberculosis), and Netrabhisyanda (conjunctivitis) can spread from one person to another through Prasanga (close contact), Gatra Samsparsha (physical touch), Nishvasat (breath), Sahabhojanat (sharing food), and sharing beds, seats, clothes, or garlands.",
+    "clinical_importance": "This shows that ancient physicians understood the concept of contagion. It underscores the importance of hygiene, quarantine (isolation of the patient), and disinfection in preventing the spread of certain diseases."
+},
+
+
+{
+    "name": "Dosha Gati (दोष गति)",
+    "category": "Dosha",
+    "shloka": "क्षयः स्थानं च वृद्धिश्च दोषाणां त्रिविधा गतिः।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 17/3)",
+    "explanation": "Dosha Gati refers to the state, course, or direction of the Doshas. It is broadly classified into three types: 1. Kshaya (decrease), Sthana (normalcy/balance), and Vriddhi (increase). It can also refer to their direction of movement: Urdhva (upward), Adha (downward), and Tiryak (oblique), or their movement between different pathways: Koshta to Shakha and vice versa.",
+    "clinical_importance": "Understanding the Gati of the doshas is essential for diagnosis. For example, in treatment, the aim is often to bring doshas from the peripheral tissues (Shakha) back to the central tract (Koshtha) so they can be eliminated via Panchakarma."
+},
+{
+    "name": "Avarana (आवरण)",
+    "category": "Dosha",
+    "shloka": "गतिर्गन्धवहेनास्य यदाऽऽव्रियतेऽनिलेन हि।",
+    "shloka_ref": "(Charaka Samhita, Chikitsasthana 28/60)",
+    "explanation": "Avarana means 'covering' or 'occlusion'. It is a complex pathological state where the normal function of one dosha (or sub-dosha, dhatu, or mala) is obstructed or covered by another. It most commonly involves Vata dosha, especially its subtypes. For example, the function of Prana Vayu can be obstructed by Kapha, leading to respiratory issues.",
+    "clinical_importance": "Avarana creates complex and often contradictory symptoms, making diagnosis difficult. It is a key concept in understanding chronic neurological and degenerative diseases. The treatment involves first clearing the obstruction and then pacifying the primary aggravated dosha."
+},
+
+
+{
+    "name": "Satmya (सात्म्य)",
+    "category": "General Concepts",
+    "shloka": "यद्धि सात्म्यमिति प्रोक्तं तद्धि सेवेत नित्यशः।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 7/33)",
+    "explanation": "Satmya refers to that which has become homologous, congenial, or accustomed to an individual through regular use. It can be a food, habit, or environment that, despite its inherent qualities, no longer causes harm and may even be beneficial due to habituation. For example, a person living in a cold climate becomes accustomed (Satmya) to the cold.",
+    "clinical_importance": "A physician must consider a patient's Satmya when prescribing diet and lifestyle. Suddenly stopping a long-held habit, even a bad one, can cause imbalance. Changes must be made gradually."
+},
+{
+    "name": "Pramana (प्रमाण)",
+    "category": "General Concepts",
+    "shloka": "आप्तोपदेशः प्रत्यक्षम् अनुमानं युक्तिश्चेति प्रमाणानि।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/17 - Interpreted)",
+    "explanation": "Pramanas are the means of acquiring valid knowledge. Ayurveda accepts four primary Pramanas for examination: 1. Aptopadesha (Authoritative Testimony, i.e., the classical texts), 2. Pratyaksha (Direct Perception, using one's senses), 3. Anumana (Inference, making a logical conclusion based on observation), and 4. Yukti (Reasoning, applying multiple factors to arrive at a conclusion).",
+    "clinical_importance": "For students and researchers, this is the epistemological foundation of Ayurveda. A clinician uses all four: they trust the texts (Aptopadesha), observe the patient (Pratyaksha), infer the doshic imbalance (Anumana), and then apply reason (Yukti) to devise a treatment plan."
+},
+{
+    "name": "Trayopastambha (त्रयोपस्तम्भ)",
+    "category": "General Concepts",
+    "shloka": "त्रय उपस्तम्भा इति- आहारः, स्वप्नो, ब्रह्मचर्यमिति।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/35)",
+    "explanation": "The Trayopastambha are the three 'sub-pillars' or supports of life. While the three Doshas are the main pillars, these three are essential for maintaining them. They are: 1. Ahara (Food), 2. Nidra (Sleep), and 3. Brahmacharya (regulated lifestyle, including management of sexual energy).",
+    "clinical_importance": "A balanced life depends on the proper management of these three sub-pillars. Irregularities in any of them are a direct cause of disease. A physician's first line of advice always involves correcting the patient's diet, sleep, and daily routine."
+},
+
+
+{
+    "name": "Kala Dhatu Poshana Nyaya (काल धातु पोषण न्याय)",
+    "category": "Dhatu",
+    "shloka": "Analogy-based principle",
+    "shloka_ref": "(Commentaries)",
+    "explanation": "Also known as the 'Law of Transformation' (Parinama Paksha), this theory explains that the Ahara Rasa (nutrient fluid) sequentially transforms into each of the seven Dhatus over time. Rasa Dhatu becomes Rakta, which then becomes Mamsa, and so on. Each transformation takes a specific amount of time and is governed by its respective Dhatvagni.",
+    "clinical_importance": "This theory helps in understanding the timeline of disease and healing. It explains why a long-term dietary imbalance can take a significant amount of time to manifest in deeper tissues like bone (Asthi) or reproductive tissue (Shukra)."
+},
+{
+    "name": "Ksheera Dadhi Nyaya (क्षीर दधि न्याय)",
+    "category": "Dhatu",
+    "shloka": "Analogy-based principle",
+    "shloka_ref": "(Commentaries)",
+    "explanation": "The 'Milk into Curd' analogy, this theory is a specific model of the Kala Dhatu Poshana Nyaya. It states that each preceding Dhatu must be fully transformed into the next one, just as milk must completely turn into curd before it can be processed further. No part of the milk remains as milk; it is a total conversion.",
+    "clinical_importance": "This highlights the importance of the health of the previous Dhatu for the formation of the next. If the Rasa Dhatu is poor in quality, the Rakta Dhatu formed from it will also be of poor quality, leading to a cascade of tissue depletion."
+},
+{
+    "name": "Kedari Kulya Nyaya (केदारि कुल्या न्याय)",
+    "category": "Dhatu",
+    "shloka": "Analogy-based principle",
+    "shloka_ref": "(Commentaries)",
+    "explanation": "The 'Irrigation of a Field' analogy, this theory explains how all seven Dhatus can be nourished simultaneously. It proposes that the nutrient fluid (Ahara Rasa) circulates throughout the body like water in irrigation channels (Kulya) and each Dhatu (like a field or Kedari) takes the specific nutrients it needs for its nourishment, all at the same time.",
+    "clinical_importance": "This theory explains how a nourishing substance can have a relatively quick effect on all tissues. The different Dhatu Poshana Nyayas are not contradictory but explain different aspects of the complex process of metabolism and tissue nourishment."
+},
+
+
+{
+    "name": "Trividha Karma (त्रिविध कर्म)",
+    "category": "Chikitsa",
+    "shloka": "Concept described contextually",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "This refers to the three stages of any major therapeutic procedure, especially Panchakarma. They are: 1. Purva Karma (Preparatory Procedures), which includes Pachana (improving digestion), Snehana (oleation), and Swedana (sudation) to prepare the body. 2. Pradhana Karma (Main Procedure), which is the primary therapy itself (e.g., Vamana, Virechana). 3. Paschat Karma (Post-operative Procedures), which includes a specific dietary regimen (Samsarjana Krama) to restore digestive fire and vitality.",
+    "clinical_importance": "Properly conducting all three stages is mandatory for the success and safety of Panchakarma. Skipping Purva Karma or ignoring Paschat Karma can lead to serious complications and nullify the benefits of the main procedure."
+},
+{
+    "name": "Langhana (लङ्घन)",
+    "category": "Chikitsa",
+    "shloka": "यत्किञ्चिल्लाघवकरं देहे तल्लङ्घनं स्मृतम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 22/9)",
+    "explanation": "Langhana means 'to lighten' or 'to reduce'. It refers to any therapy that brings about lightness in the body. While it is commonly understood as fasting (Upavasa), it is one of ten therapies and can also include things like drinking warm water, exposure to sun and wind, and taking digestive herbs (Pachana). It is primarily used to digest Ama and pacify Kapha.",
+    "clinical_importance": "Langhana is the primary treatment for diseases of mild severity, especially those caused by over-nutrition (Santarpana). It is the first step in treating most fevers (Jwara) and digestive disorders. Knowing when to apply lightening vs. nourishing therapy is a key clinical skill."
+},
+{
+    "name": "Snehana (स्नेहन)",
+    "category": "Chikitsa",
+    "shloka": "स्नेहनं स्नेहविष्यन्दमार्दवक्लेदकारकम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 22/11)",
+    "explanation": "Snehana is the process of oleation, or administering fatty substances (Sneha) either internally (Abhyantara Snehapana) or externally (Bahya Snehana, like Abhyanga massage). Its primary qualities are to induce viscidity, softness, and moistness in the body tissues. It is a crucial preparatory procedure (Purva Karma) for Panchakarma.",
+    "clinical_importance": "Snehana therapy loosens the deep-seated, aggravated doshas from the tissues (Shakha) and brings them to the gastrointestinal tract (Koshtha), making them easy to expel through the main Panchakarma procedures. It is also a primary treatment (Shamana) for Vata dosha disorders."
+},
+{
+    "name": "Swedana (स्वेदन)",
+    "category": "Chikitsa",
+    "shloka": "स्तम्भगौरवशीतघ्नं स्वेदनं स्वेदकारकम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 22/12)",
+    "explanation": "Swedana is the process of sudation or inducing sweat. It is performed after Snehana to further liquefy the doshas and dilate the Srotas (body channels). It relieves stiffness (Stambha), heaviness (Gaurava), and coldness (Shita) in the body. There are many types, including Nadi Sweda (steam) and Pinda Sweda (bolus fomentation).",
+    "clinical_importance": "As a Purva Karma, Swedana is essential for guiding the loosened doshas towards the Koshtha for elimination. It is also used as a standalone therapy for pain, stiffness, and Vata-Kapha disorders."
+},
+{
+    "name": "Vamana (वमन)",
+    "category": "Chikitsa",
+    "shloka": "तत्र दोषा हरणं ऊर्ध्वभागं वमनसंज्ञकम्।",
+    "shloka_ref": "(Charaka Samhita, Kalpasthana 1/4)",
+    "explanation": "Vamana is therapeutic emesis, one of the five main Panchakarma procedures. It is designed to eliminate aggravated Kapha dosha and associated Pitta from the upper part of the gastrointestinal tract, primarily the stomach and chest.",
+    "clinical_importance": "Vamana is the treatment of choice for Kapha-dominant disorders such as chronic asthma, psoriasis, obesity, and hyperacidity. It must be performed under strict medical supervision after proper preparation (Purva Karma)."
+},
+{
+    "name": "Virechana (विरेचन)",
+    "category": "Chikitsa",
+    "shloka": "अधोभागं दोषहरणं विरेचनसंज्ञकम्।",
+    "shloka_ref": "(Charaka Samhita, Kalpasthana 1/4)",
+    "explanation": "Virechana is therapeutic purgation, another of the five main Panchakarma procedures. It is designed to eliminate aggravated Pitta dosha and associated Kapha and Vata from the lower part of the gastrointestinal tract, primarily the small intestine and liver.",
+    "clinical_importance": "Virechana is the primary treatment for Pitta-dominant disorders like skin diseases (Kushtha), jaundice (Kamala), chronic fevers, and inflammatory conditions. It is a powerful detoxification procedure."
+},
+{
+    "name": "Basti (बस्ति)",
+    "category": "Chikitsa",
+    "shloka": "बस्तिर्वातहराणां श्रेष्ठः।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 25/40 - Interpreted)",
+    "explanation": "Basti is the procedure of administering medicated substances through the rectal route, i.e., a medicated enema. It is considered the most important of all Panchakarma therapies because it directly targets the main site of Vata dosha (the colon). There are two main types: Niruha/Asthapana (decoction-based) and Anuvasana (oil-based).",
+    "clinical_importance": "Basti is hailed as the 'half-treatment' for all diseases because it is the most effective therapy for pacifying Vata dosha, which is the root cause of most ailments. It is used for a vast range of conditions, from arthritis and paralysis to constipation and infertility."
+},
+{
+    "name": "Nasya (नस्य)",
+    "category": "Chikitsa",
+    "shloka": "नासा हि शिरसो द्वारं।",
+    "shloka_ref": "(Sushruta Samhita, Chikitsasthana 40/21)",
+    "explanation": "Nasya is the nasal administration of medicine. The classical texts state that the nose is the gateway to the head. Therefore, medicines administered through the nasal route act directly on the brain, sinuses, and all structures of the head and neck.",
+    "clinical_importance": "Nasya is the treatment of choice for all 'Urdhvajatrugata' diseases (illnesses of the parts above the clavicle), including migraines, sinusitis, allergies, hair fall, and neurological and psychological disorders."
+},
+{
+    "name": "Rakta Mokshana (रक्त मोक्षण)",
+    "category": "Chikitsa",
+    "shloka": "विषाणां श्रावणे चैव जलौकसः।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 13/3)",
+    "explanation": "Rakta Mokshana is therapeutic bloodletting, the fifth procedure of Panchakarma according to Acharya Sushruta. It is the process of removing a small quantity of vitiated blood (Dushta Rakta) to treat diseases caused by its impurity. Methods include Siravyadha (venepuncture), Prachhanna (scarification), and Jalaukavacharana (leech therapy).",
+    "clinical_importance": "It is a highly effective treatment for deep-seated Pitta and Rakta disorders, such as chronic skin diseases like eczema and psoriasis, gout, and localized inflammatory conditions. Leech therapy is particularly effective for non-healing ulcers and varicose veins."
+},
+{
+    "name": "Samsarjana Krama (संसर्जन क्रम)",
+    "category": "Chikitsa",
+    "shloka": "Concept described in detail.",
+    "shloka_ref": "(Charaka Samhita, Siddhisthana 1)",
+    "explanation": "Samsarjana Krama is a specific dietary regimen followed after a major Shodhana procedure like Vamana or Virechana. The digestive fire (Agni) becomes very weak after detoxification, similar to a fire after being doused with water. This regimen gradually reintroduces food, starting with thin rice gruel (Peya), then thicker gruel (Vilepi), then soupy lentils (Yusha), and finally normal food, to safely rekindle the Agni.",
+    "clinical_importance": "This post-therapy diet is as important as the main procedure itself. Improperly following Samsarjana Krama can lead to severe indigestion and other complications, nullifying the benefits of the detox."
+},
+
+
+{
+    "name": "Upashaya/Anupashaya (उपशय/अनुपशय)",
+    "category": "Roga Nidana",
+    "shloka": "उपशयः पुनर्हेतुविपरीतविपरीतार्थकारिणां औषधान्नविहाराणाम् उपयोगः सुखवहः।",
+    "shloka_ref": "(Madhava Nidana 1/11)",
+    "explanation": "Upashaya and its opposite, Anupashaya, form the fourth part of the Nidana Panchaka. It refers to diagnostic therapeutic trials. Upashaya is the relief of symptoms obtained by using medicines, diet, or lifestyle that are either similar to or opposite to the cause or the disease itself. Anupashaya is the aggravation of symptoms from such trials.",
+    "clinical_importance": "This is used in cases of diagnostic confusion. For example, if a joint pain is of uncertain origin, applying a hot poultice (opposite to Vata's coldness) might give relief (Upashaya), confirming a Vata-dominant diagnosis. If it aggravates the pain, it suggests a Pitta-dominant condition."
+},
+
+
+{
+    "name": "Viruddha Ahara (विरुद्ध आहार)",
+    "category": "Dravya Guna",
+    "shloka": "देशकाळाग्निसंस्कारप्रकृत्यादिविरुद्धं यत् आहारं तत् विरुद्धम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 26 - Interpreted)",
+    "explanation": "Viruddha Ahara refers to incompatible food combinations or foods that are contradictory to one's location, season, digestive fire, or constitution. Examples include consuming milk with fish (Samyoga Viruddha - combination incompatibility) or drinking cold water after eating ghee (Sanskara Viruddha - processing incompatibility). Such combinations can create toxins (Ama) and lead to disease.",
+    "clinical_importance": "Knowledge of Viruddha Ahara is crucial for dietary prescription. Many chronic inflammatory and autoimmune conditions are thought to be caused or aggravated by the long-term consumption of incompatible foods."
+},
+{
+    "name": "Dravya Sangrahana (द्रव्य संग्रहण)",
+    "category": "Dravya Guna",
+    "shloka": "The collection method is described based on part used and season.",
+    "shloka_ref": "(Charaka Samhita, Kalpasthana 1)",
+    "explanation": "This is the science of collecting medicinal herbs. The classical texts give detailed instructions on how, when, and from where to collect herbs to ensure maximum potency (Virya). This includes considering the season (Ritu), the part of the plant to be used (Prayojyanga - root, leaf, fruit), and the geographical location (Desha). For example, roots are best collected in late winter or early summer when the plant's energy is concentrated downwards.",
+    "clinical_importance": "For students of Dravya Guna and for pharmaceutical companies, this principle is foundational. The quality and efficacy of an Ayurvedic medicine depend entirely on the quality of the raw materials used. Improper collection can render a potent herb useless."
+},
+
+
+{
+    "name": "Loka-Purusha Samya (लोक-पुरुष साम्य)",
+    "category": "General Concepts",
+    "shloka": "यावन्तो हि लोके मूर्तिमन्तो भावविशेषाः, तावन्तः पुरुषे; यावन्तः पुरुषे, तावन्तो लोके।",
+    "shloka_ref": "(Charaka Samhita, Sharirasthana 5/3)",
+    "explanation": "This is the principle of the Macrocosm-Microcosm Analogy. It states that the human being (Purusha) is a miniature replica of the universe (Loka). Whatever structures and phenomena are present in the universe are also present within the individual. The five elements, the three Gunas, and the interplay of natural forces all exist both externally and internally.",
+    "clinical_importance": "This principle forms the philosophical basis of Ayurvedic treatment. By observing nature, we can understand the human body. For example, the drying effect of wind (Vata) in nature is mirrored by the drying effect of Vata dosha in the body. Treatment involves using natural substances to restore this internal natural balance."
+},
+{
+    "name": "Prakriti-Purusha (प्रकृति-पुरुष)",
+    "category": "General Concepts",
+    "shloka": "मूलप्रकृतिरविकृतिर्महदाद्याः प्रकृतिविकृतयः सप्त। षोडशकस्तु विकारो न प्रकृतिर्न विकृतिः पुरुषः॥",
+    "shloka_ref": "(Sankhya Karika 3)",
+    "explanation": "This is the core dualistic philosophy of the Sankhya school, which heavily influences Ayurveda. Purusha is pure, eternal, unchanging consciousness—the silent witness. Prakriti is the primordial, unmanifest creative energy or matter. The entire universe, including our mind and body, is an evolution of Prakriti. Life and suffering arise from the mistaken identification of Purusha (consciousness) with the manifestations of Prakriti (mind/body).",
+    "clinical_importance": "This philosophy provides the ultimate context for health and liberation (Moksha). The goal of spiritual practices in Ayurveda is to help the individual discriminate between the true Self (Purusha) and the transient mind-body complex (Prakriti), leading to lasting peace."
+},
+{
+    "name": "Atreya Punarvasu (आत्रेय पुनर्वसु)",
+    "category": "General Concepts",
+    "shloka": "History and Lineage",
+    "shloka_ref": "(Introduction to Charaka Samhita)",
+    "explanation": "Atreya Punarvasu was the great sage and physician who is considered the primary source of the teachings compiled in the Charaka Samhita, one of the foundational texts of Ayurveda. He was a master of Kayachikitsa (Internal Medicine) and taught his wisdom to his six disciples, including Agnivesha, who first codified his teachings.",
+    "clinical_importance": "For any BAMS student, knowing the lineage (Guru-Shishya Parampara) is essential. Atreya represents the archetype of the compassionate and wise Ayurvedic physician (Vaidya), and his teachings form the backbone of internal medicine in Ayurveda."
+},
+{
+    "name": "Dhanvantari (धन्वन्तरि)",
+    "category": "General Concepts",
+    "shloka": "History and Mythology",
+    "shloka_ref": "(Puranas & Sushruta Samhita)",
+    "explanation": "Dhanvantari is revered as the divine physician and the deity of Ayurveda. He is believed to have emerged from the churning of the cosmic ocean (Samudra Manthan) holding a pot of Amrita (the nectar of immortality). He is considered the original source of the surgical tradition in Ayurveda, which was passed down to his disciple, Sushruta.",
+    "clinical_importance": "Lord Dhanvantari is worshipped by Ayurvedic practitioners as the source of all healing knowledge. He represents the divine aspect of medicine and is an inspiration for surgeons. The Sushruta Samhita, the foundational text of Ayurvedic surgery, begins by paying homage to him."
+},
+   
+
+
+
+{
+    "name": "Prana Vayu (प्राण वायु)",
+    "category": "Dosha",
+    "shloka": "प्राणोऽत्र मूर्धगः। उरःकण्ठचरो बुद्धिहृदयेन्द्रियचित्तधृक्। ष्ठीवनक्षवथूद्गारनिःश्वासान्नप्रवेशकृत्॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/4)",
+    "explanation": "Prana Vayu is the primary Vayu, located in the head (Murdha) and moving through the chest and throat. It governs the functions of the intellect (Buddhi), heart, sense organs, and mind. It is responsible for spitting, sneezing, belching, inhalation, and the swallowing of food.",
+    "clinical_importance": "Vitiation of Prana Vayu leads to respiratory diseases like asthma (Shwasa), hiccups (Hikka), and neurological and psychological disorders. Practices like Pranayama directly work on balancing Prana Vayu."
+},
+{
+    "name": "Udana Vayu (उदान वायु)",
+    "category": "Dosha",
+    "shloka": "उदानस्य पुनः स्थानं नोरः कण्ठनासाश्चरति। वाक्प्रवृत्तिप्रयत्नोर्जाबलवर्णस्मृतिक्रियाः॥",
+    "shloka_ref": "(Sushruta Samhita, Nidanasthana 1/13 - Interpreted)",
+    "explanation": "Udana Vayu resides in the chest and moves upwards through the throat and nasal passage. Its primary functions are the initiation of speech (Vak Pravritti), effort (Prayatna), energy (Urja), strength (Bala), complexion (Varna), and memory (Smriti). It governs the upward movement of energy.",
+    "clinical_importance": "Imbalance of Udana Vayu can lead to diseases of the upper body, such as speech disorders, throat problems, and lack of mental enthusiasm. It is responsible for the expulsion of air during speech and expiration."
+},
+{
+    "name": "Vyana Vayu (व्यान वायु)",
+    "category": "Dosha",
+    "shloka": "व्यानो हृदि स्थितः कृत्स्नदेहचारी महाजवः। गत्यपक्षेपणोत्क्षेपनिमेषोन्मेषणादिकाः। प्रायः सर्वाः क्रियास्तस्मिन् प्रतिबद्धाः शरीरिणाम्॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/7)",
+    "explanation": "Vyana Vayu is located in the heart and circulates throughout the entire body with great speed (Mahajavah). It is responsible for all movements, such as locomotion (Gati), extension (Apakshepana), flexion (Utkshepana), and the blinking of eyelids (Nimesha-Unmeshana). Nearly all bodily actions are dependent on it.",
+    "clinical_importance": "Vyana Vayu governs the circulatory system, nerve impulses, and muscular movements. Its imbalance can lead to systemic diseases, circulatory problems, and neurological movement disorders."
+},
+{
+    "name": "Samana Vayu (समान वायु)",
+    "category": "Dosha",
+    "shloka": "समानोऽग्निसमीपस्थः कोष्ठे चरति सर्वतः। अन्नं गृह्णाति पचति विवेचयति मुञ्चति॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/8)",
+    "explanation": "Samana Vayu is located near the digestive fire (Agni) and moves throughout the Koshtha (gastrointestinal tract). Its main functions are to receive food (Grihnati), aid in its digestion (Pachati), separate nutrients from waste (Vivechayati), and move it downwards (Munchati).",
+    "clinical_importance": "This Vayu directly governs the digestive process. Its dysfunction leads to common digestive complaints like indigestion, malabsorption, and loss of appetite (Agnimandya)."
+},
+{
+    "name": "Apana Vayu (अपान वायु)",
+    "category": "Dosha",
+    "shloka": "अपानोऽपानगः श्रोणिबस्तिमेढ्रोरुगोचरः। शुक्रार्तवशकृन्मूत्रगर्भनिष्क्रमणक्रियः॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/9)",
+    "explanation": "Apana Vayu is located in the lower pelvic region (Apana-gah) and moves in the area of the colon, bladder, and reproductive organs. It is responsible for the downward expulsion of feces (Shakrit), urine (Mutra), semen (Shukra), menstrual fluid (Artava), and the fetus during childbirth (Garbha).",
+    "clinical_importance": "Apana Vayu governs all elimination and reproductive functions. Its imbalance is the root cause of constipation, urinary disorders, menstrual problems, and sexual dysfunction. Treatments like Basti (enema) are specifically used to correct Apana Vayu."
+},
+
+
+{
+    "name": "Pachaka Pitta (पाचक पित्त)",
+    "category": "Dosha",
+    "shloka": "पक्वामाशयमध्यस्थं पञ्चभूतात्मकत्वेऽपि यत्। तैजसगुनोद्रेकात् त्यक्तद्रवत्वं पाचकं नाम॥",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 21/10)",
+    "explanation": "Pachaka Pitta is located between the stomach (Amashaya) and intestines (Pakvashaya). Although composed of all five elements, it is predominant in the fire (Tejas) element and lacks liquidity. It is the primary form of Pitta that governs the digestion of food, separating nutrients from waste. It supports all other forms of Pitta.",
+    "clinical_importance": "This is the 'digestive fire' in its truest sense. Imbalance of Pachaka Pitta is the primary cause of all digestive issues related to hyperacidity, ulcers, and indigestion (Ajeerna)."
+},
+{
+    "name": "Ranjaka Pitta (रञ्जक पित्त)",
+    "category": "Dosha",
+    "shloka": "यत्तु यकृत्प्लीह्नोः पित्तं तस्मिन् रञ्जकोऽग्निरिति संज्ञा। स रसं रञ्जयित्वा रक्ततां नयति॥",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 21/11 - Interpreted)",
+    "explanation": "Ranjaka Pitta is located in the liver (Yakrit) and spleen (Pliha). Its function is to 'color' or 'dye' (Ranjana) the nutrient fluid (Rasa Dhatu), transforming it into blood (Rakta Dhatu).",
+    "clinical_importance": "This Pitta governs the formation of blood and hemoglobin. Its dysfunction leads to blood disorders such as anemia (Pandu), jaundice (Kamala), and other liver and spleen-related diseases."
+},
+{
+    "name": "Sadhaka Pitta (साधक पित्त)",
+    "category": "Dosha",
+    "shloka": "यत् पित्तं हृदयस्थं तद् साधकम् इत्युच्यते। सोऽभिप्रार्थितमनोरथसाधनकृदुक्तः॥",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 21/12 - Interpreted)",
+    "explanation": "Sadhaka Pitta resides in the heart (Hridaya). Its function is to help achieve ('Sadhana') one's desires and goals by processing emotions and discriminating between right and wrong. It governs higher mental functions like intellect (Buddhi), memory (Smriti), and self-esteem (Abhimana).",
+    "clinical_importance": "Sadhaka Pitta is the link between the mind and body. Its imbalance can lead to emotional disturbances, lack of determination, and heart-related psychological issues. It 'digests' emotions."
+},
+{
+    "name": "Alochaka Pitta (आलोचक पित्त)",
+    "category": "Dosha",
+    "shloka": "रूपालोचनतः स्मृतं दृशि गतं तत् आलोचकम्।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/12 - part of verse)",
+    "explanation": "Alochaka Pitta is located in the eyes (Drishti). Its sole function is to govern vision and the perception of light and color ('Alochana' means to see or perceive).",
+    "clinical_importance": "All functions of the eyes, from simple sight to the health of the retina, are governed by Alochaka Pitta. Its imbalance leads to various eye diseases, poor vision, and inflammatory conditions of the eyes."
+},
+{
+    "name": "Bhrajaka Pitta (भ्राजक पित्त)",
+    "category": "Dosha",
+    "shloka": "त्वचि स्थितं भ्राजकं, भ्राजनात् त्वचः।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/12 - part of verse)",
+    "explanation": "Bhrajaka Pitta is located in the skin (Twak). Its function is to give the skin its color and luster ('Bhrajana' means to shine or radiate). It governs the absorption of substances applied to the skin (like oils) and helps maintain body temperature.",
+    "clinical_importance": "This Pitta is responsible for the skin's complexion and health. Its imbalance leads to skin diseases like rashes, acne, discoloration, and inflammatory conditions like psoriasis."
+},
+
+
+{
+    "name": "Kledaka Kapha (क्लेदक कफ)",
+    "category": "Dosha",
+    "shloka": "आमाशये श्लेष्मा क्लेदकः, सोऽन्नसङ्घातक्लेदनात्।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/13 - part of verse)",
+    "explanation": "Kledaka Kapha is located in the stomach (Amashaya). Its primary function is to moisten and liquefy the ingested food ('Kledana' means moistening), making it soft and easy for the digestive enzymes (Pachaka Pitta) to act upon. It forms the protective mucous lining of the stomach.",
+    "clinical_importance": "A balanced Kledaka Kapha protects the stomach from the heat of Pitta. Its imbalance can lead to either excessive mucus and slow digestion (if increased) or ulcers and acidity (if decreased)."
+},
+{
+    "name": "Avalambaka Kapha (अवलम्बक कफ)",
+    "category": "Dosha",
+    "shloka": "उरःस्थः स त्रिकस्य आत्मवीर्येण हृदयान्नस्य च। अवलम्बनं करोति॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/14 - Interpreted)",
+    "explanation": "Avalambaka Kapha is located in the chest (Urah-stha) and sacral region (Trika). Its function is to 'support' (Avalambana) the heart, lungs, and the spine. It provides the necessary lubrication and fluid medium for the functioning of these vital organs.",
+    "clinical_importance": "This Kapha provides the fundamental support and moisture for the thoracic cavity. Its imbalance can lead to respiratory problems with excessive mucus, lethargy, and lower back pain."
+},
+{
+    "name": "Bodhaka Kapha (बोधक कफ)",
+    "category": "Dosha",
+    "shloka": "रसनस्थो बोधको रसवेदनात्।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/15 - part of verse)",
+    "explanation": "Bodhaka Kapha is located in the tongue (Rasana) and oral cavity. Its function is to enable the perception of taste ('Bodhana' means to know or perceive). It moistens the mouth and food, allowing the taste buds to function properly.",
+    "clinical_importance": "Without Bodhaka Kapha, one cannot perceive taste. Its vitiation can lead to a loss or distortion of the sense of taste, and dryness of the mouth."
+},
+{
+    "name": "Tarpaka Kapha (तर्पक कफ)",
+    "category": "Dosha",
+    "shloka": "शिरःसंस्थोऽक्षतर्पणात् तर्पकः।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/15 - part of verse)",
+    "explanation": "Tarpaka Kapha is located in the head (Shiras). Its function is to 'nourish' or 'content' (Tarpana) the sense organs and the nervous system. It corresponds to the cerebrospinal fluid that cools, lubricates, and protects the brain and nerve tissues.",
+    "clinical_importance": "A healthy Tarpaka Kapha brings contentment and mental peace. Its imbalance can lead to sinus issues, a poor sense of smell, and a feeling of mental dissatisfaction or restlessness."
+},
+{
+    "name": "Shleshaka Kapha (श्लेषक कफ)",
+    "category": "Dosha",
+    "shloka": "सन्धिषु श्लेषणात् श्लेषकः।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 12/16 - part of verse)",
+    "explanation": "Shleshaka Kapha is located in all the joints (Sandhi) of the body. Its function is to lubricate ('Shleshana' means to adhere or join) the joints, ensuring their smooth and frictionless movement. It corresponds to the synovial fluid.",
+    "clinical_importance": "A balanced Shleshaka Kapha keeps the joints healthy and mobile. Its deficiency leads to dryness, creaking, and pain in the joints (osteoarthritis), while its excess can cause swelling and stiffness (rheumatoid arthritis)."
+},
+   
+
+
+
+{
+    "name": "Dinacharya (दिनचर्या)",
+    "category": "General Concepts",
+    "shloka": "आयुः कामयमानेन धर्मार्थसुखसाधनम्। आयुर्वेदोपदेशेषु विधेयः परमादरः॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 2/1)",
+    "explanation": "Dinacharya is the ideal daily routine prescribed by Ayurveda to maintain health and harmony. This verse emphasizes that one who desires a long, healthy life should follow the advice of Ayurveda. The routine includes practices like waking up during Brahma Muhurta, cleansing (Saucha), tongue scraping (Jihva Nirlekhana), oil pulling (Gandusha), self-massage (Abhyanga), exercise (Vyayama), and bathing, all performed in a specific order to align the body's rhythms with the cycles of nature.",
+    "clinical_importance": "A proper Dinacharya is the first and most powerful tool for preventing disease. It helps to regulate the doshas, strengthen Agni, and maintain mental clarity. Prescribing a suitable daily routine is a fundamental part of any Ayurvedic consultation."
+},
+{
+    "name": "Ritucharya (ऋतुचर्या)",
+    "category": "General Concepts",
+    "shloka": "तस्याशिताद्यान्मात्राद्याः कालर्तुव्याधिवर्जिताः।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 6 - Interpreted)",
+    "explanation": "Ritucharya is the seasonal regimen, detailing the specific diet (Ahara) and lifestyle (Vihara) to be followed in each of the six seasons (Ritus) to adapt to environmental changes. For example, in the cold Hemanta (late autumn) season, heavy, nourishing foods and regular exercise are recommended, while in the hot Grishma (summer) season, light, cooling foods and avoidance of excessive exertion are advised.",
+    "clinical_importance": "Following Ritucharya prevents seasonal diseases that arise from the natural increase or decrease of doshas. It's a key preventive health strategy that helps the body maintain homeostasis amidst external changes."
+},
+{
+    "name": "Vega (वेग)",
+    "category": "General Concepts",
+    "shloka": "न वेगान् धारयेद् वातविण्मूत्रक्षुतृडासनान्। निद्राकासश्रमश्वासजृम्भाश्रुच्छर्दिरतेसाम्॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 4/1)",
+    "explanation": "Vegas are the natural bodily urges. Ayurveda identifies 13 non-suppressible urges (Adharaniya Vegas), including the urges for flatus, feces, urine, sneezing, thirst, hunger, sleep, cough, breathlessness on exertion, yawning, tears, vomiting, and ejaculation. Suppressing these urges obstructs the flow of Vata dosha and is a primary cause of many diseases.",
+    "clinical_importance": "Inquiring about the suppression of urges is a key part of taking a patient's history. Many neurological (Vata) disorders, digestive issues, and even heart problems can be traced back to the chronic suppression of these natural Vegas."
+},
+{
+    "name": "Sad-vritta (सद्वृत्त)",
+    "category": "General Concepts",
+    "shloka": "हितं सर्वभूतानां वाक्यं ब्रूयात् सत्यं प्रियं च।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 8 - Interpreted from concept)",
+    "explanation": "Sad-vritta is the code of ethical and righteous conduct. It encompasses personal, social, and moral guidelines for a healthy and harmonious life. This includes principles of mental hygiene (e.g., controlling greed, anger, and fear), social conduct (e.g., being truthful and compassionate), and personal habits (e.g., maintaining cleanliness).",
+    "clinical_importance": "Ayurveda recognizes that mental and social well-being are inseparable from physical health. Following Sad-vritta helps cultivate a Sattvic mind, which is the foundation of true health. A physician's role includes counseling patients on ethical and positive behavior."
+},
+{
+    "name": "Triguna (त्रिगुण)",
+    "category": "General Concepts",
+    "shloka": "सत्त्वं रजस्तम इति मानसाः स्मृता गुणाः।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "The Trigunas are the three fundamental qualities of the mind (Manas). They are: 1. Sattva (purity, clarity, harmony, and balance), 2. Rajas (activity, passion, desire, and agitation), and 3. Tamas (inertia, darkness, dullness, and heaviness). While all three are always present, the predominance of one Guna determines an individual's psychological state and temperament.",
+    "clinical_importance": "Mental health in Ayurveda is assessed through the lens of the Gunas. The goal of all mental therapies, diet, and lifestyle advice is to increase Sattva while reducing the disturbances caused by excess Rajas and Tamas."
+},
+
+
+{
+    "name": "Dhatu Sara (धातु सार)",
+    "category": "Dhatu",
+    "shloka": "सारैः अष्टौ पुरुषस्य साराणि भवन्ति। त्वग्रक्तमांसमेदोऽस्थिमज्जशुक्रसत्त्वानि॥",
+    "shloka_ref": "(Charaka Samhita, Vimanasthana 8/104 - Interpreted)",
+    "explanation": "Dhatu Sara refers to the excellence or optimum quality of each of the seven Dhatus, plus an eighth Sara for the mind (Sattva). A person is said to be 'Saaravan' when their tissues are of the highest quality. For example, a person with excellent bone tissue (Asthi Sara) will have a strong frame, large teeth, and great physical endurance.",
+    "clinical_importance": "The examination of Dhatu Sara (Sara Pariksha) is a key part of assessing a patient's constitution (Prakriti) and their innate strength (Bala). It helps determine a person's natural immunity and their capacity to withstand disease and stress."
+},
+{
+    "name": "Trividha Bala (त्रिविध बल)",
+    "category": "Dhatu",
+    "shloka": "सहजं कालजं युक्तिकृतं च बलमिति।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/36)",
+    "explanation": "Bala means strength, immunity, or vitality. Ayurveda describes it in three types: 1. Sahaja Bala (Congenital or hereditary strength, determined by Prakriti and Dhatu Sara), 2. Kalaja Bala (Temporal strength, which varies with season and age), and 3. Yuktikrita Bala (Acquired strength, which is developed through proper diet, exercise, and rejuvenative therapies).",
+    "clinical_importance": "Assessing a patient's Bala is crucial for determining their prognosis and the intensity of the treatment that can be administered. While Sahaja Bala is innate, a physician's goal is to maximize the patient's Yuktikrita Bala through Rasayana and other therapies."
+},
+
+
+{
+    "name": "Dashavidha Parikshya Bhava (दशविध परीक्ष्य भाव)",
+    "category": "Roga Nidana",
+    "shloka": "दूष्यं देशं बलं कालं अनलं प्रकृतिं वयः। सत्त्वं सात्म्यं तथाऽऽहारमवस्थाश्च पृथग्विधाः॥",
+    "shloka_ref": "(Charaka Samhita, Vimanasthana 8/94)",
+    "explanation": "These are the ten essential factors that must be examined to fully understand a patient and their disease. They are: Dushya (the vitiated body element), Desha (geography/body part), Bala (strength), Kala (time/season), Anala (digestive fire - Agni), Prakriti (constitution), Vayas (age), Sattva (mind), Satmya (habituation), and Ahara (diet).",
+    "clinical_importance": "This framework ensures a truly holistic and individualized diagnosis. A physician must consider all these factors before creating a treatment plan. For example, the same disease will be treated differently in a young, strong patient in winter versus an elderly, weak patient in summer."
+},
+{
+    "name": "Karya-Karana Siddhanta (कार्य-कारण सिद्धान्त)",
+    "category": "Roga Nidana",
+    "shloka": "नास्ति हि अकारणात् कार्य उत्पत्तिः।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "This is the 'Cause and Effect Theory', a fundamental principle of logic (Nyaya) that is central to Ayurveda. It states that every effect (Karya) must have a cause (Karana), and nothing can be produced without a cause. The cause always pre-exists the effect in some form.",
+    "clinical_importance": "This principle is the basis of all pathology (Nidana). Every disease (Karya) is understood to have a specific cause (Hetu). The primary goal of a physician is to identify and remove this cause (Nidana Parivarjana) to bring about a complete cure."
+},
+{
+    "name": "Prashamana Karana (प्रशमन कारण)",
+    "category": "Roga Nidana",
+    "shloka": "हेतुविपरीतं औषधम्।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Prashamana Karana are the factors that cause pacification or alleviation of aggravated doshas. These are substances, diets, or activities that have qualities opposite to the qualities of the imbalanced dosha. For example, if a disease is caused by the hot and sharp qualities of Pitta, cooling and mild substances will act as pacifying factors.",
+    "clinical_importance": "This is the direct application of the Samanya-Vishesha principle in treatment. All Shamana (palliative) therapies work by applying these pacifying factors to bring the doshas back to equilibrium."
+},
+{
+    "name": "Prakopa Karana (प्रकोप कारण)",
+    "category": "Roga Nidana",
+    "shloka": "हेतु-लिङ्ग-औषध ज्ञानं स्वस्थातुरपरायणम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 1/24 - context)",
+    "explanation": "Prakopa Karana are the factors that cause the aggravation or vitiation of the doshas, moving them from a state of accumulation (Sanchaya) to a state of overflow (Prakopa). These are specific dietary, lifestyle, or environmental factors that share the same qualities as a particular dosha. For example, consuming excessive dry, cold, and light food will cause Vata to aggravate.",
+    "clinical_importance": "Identifying the specific Prakopa Karana is essential for understanding the immediate cause of a disease flare-up. Advising the patient to avoid these factors is a critical part of both treatment and prevention."
+},
+
+
+{
+    "name": "Trividha Aushadha (त्रिविध औषध)",
+    "category": "Chikitsa",
+    "shloka": "दैवव्यपाश्रयं युक्तिव्यपाश्रयं सत्त्वावजयश्चेति।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/54)",
+    "explanation": "Ayurveda classifies all treatments or medicines into three broad categories: 1. Daivavyapashraya (Divine or spiritual therapies, such as mantras, wearing gems, and spiritual rituals), 2. Yuktivyapashraya (Rational therapies, which includes all prescribed diet and herbal formulations), and 3. Sattvavajaya (Psychotherapy, which involves calming the mind and restraining it from unwholesome thoughts).",
+    "clinical_importance": "This classification shows that Ayurvedic treatment is not limited to physical medicine. A holistic treatment plan often incorporates elements from all three categories to address the physical, mental, and spiritual aspects of an illness."
+},
+{
+    "name": "Tantra Yukti (तन्त्र युक्ति)",
+    "category": "General Concepts",
+    "shloka": "द्वात्रिंशत् तन्त्रयुक्तयः सन्ति ये वाक्ययोजनेऽर्थयोजने च उपयुज्यन्ते।",
+    "shloka_ref": "(Sushruta Samhita, Uttaratantra 65/4)",
+    "explanation": "Tantra Yuktis are the systematic tools or methodologies for interpreting classical texts (Tantras or Shastras). They are a set of 32-40 logical principles and rhetorical devices that help a reader understand the intended meaning of a verse, resolve apparent contradictions, and extract the correct information. Examples include Adhikarana (statement of the topic), Yoga (linking sentences), and Atidesha (extrapolation).",
+    "clinical_importance": "For researchers and postgraduate students, understanding Tantra Yukti is essential for the correct interpretation and critical analysis of the Samhitas. It is the key to unlocking the deeper, often coded, wisdom of the ancient texts."
+},
+{
+    "name": "Avastha (अवस्था)",
+    "category": "General Concepts",
+    "shloka": "Concept described contextually throughout texts",
+    "shloka_ref": "(Various Samhitas)",
+    "explanation": "Avastha means 'state' or 'stage'. In Ayurveda, it refers to the specific stage of a patient, a disease, or a dosha. This is a dynamic concept. For example, a patient might be in a 'Nirama' (toxin-free) or 'Sama' (with toxins) avastha. A disease can be in an acute (Nava) or chronic (Chirakari) avastha. The doshas can be in a state of accumulation (Sanchaya) or aggravation (Prakopa) avastha.",
+    "clinical_importance": "Treatment should never be generic; it must be tailored to the specific Avastha of the patient and the disease. For example, detoxification therapies (Shodhana) are contraindicated during the Sama avastha and should only be performed once the Ama has been digested (Nirama avastha)."
+},
+{
+    "name": "Padartha (पदार्थ)",
+    "category": "General Concepts",
+    "shloka": "द्रव्यगुणकर्मसामान्यविशेषसमवायाभावाः पदार्थाः।",
+    "shloka_ref": "(Vaisheshika Philosophy - Adopted)",
+    "explanation": "Padartha literally means 'the meaning of a word' and refers to the fundamental categories of existence as described in the Vaisheshika school of philosophy, which is integral to Ayurveda. The primary Padarthas are Dravya (substance), Guna (quality), Karma (action), Samanya (generality), Vishesha (particularity), and Samavaya (inherence). 'Abhava' (non-existence) is sometimes added.",
+    "clinical_importance": "For a BAMS student, this philosophical framework (Padartha Vijnana) is the lens through which all of Ayurveda is understood. It provides the logical and philosophical basis for understanding the relationship between substances, their qualities, and their actions on the body."
+},
+   
+
+
+
+{
+    "name": "Chikitsa Chatushpada (चिकित्सा चतुष्पाद)",
+    "category": "Chikitsa",
+    "shloka": "भिषग् द्रव्याण्युपस्थाता रोगी पादचतुष्टयम्। गुणवत् कारणं ज्ञेयं विकारव्युपशान्तये॥",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 9/3)",
+    "explanation": "These are the four essential limbs of treatment. For a successful outcome, all four must possess the right qualities. They are: 1. Bhishak (The Physician), 2. Dravyani (The Medicines/Substances), 3. Upasthata (The Nursing Staff/Attendant), and 4. Rogi (The Patient).",
+    "clinical_importance": "This principle highlights that healing is a collaborative effort. Even with the best doctor and medicine, the outcome depends on the quality of nursing care and the patient's own compliance and positive mindset."
+},
+{
+    "name": "Yukti (युक्ति)",
+    "category": "Chikitsa",
+    "shloka": "युक्तिश्च योजना या तु युज्यते।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/25)",
+    "explanation": "Yukti is the rational application of knowledge to devise a specific plan. It is the intelligence of the physician to synthesize information about the patient's dosha, disease state, strength, season, and the properties of various medicines to create a unique and effective treatment protocol. It is considered one of the 'Pramanas' (means of knowledge).",
+    "clinical_importance": "Yukti is what separates a knowledgeable scholar from a skilled physician. It is the art of clinical decision-making, emphasizing that Ayurveda is not a one-size-fits-all approach but requires intelligent planning for each individual case."
+},
+{
+    "name": "Nidana Parivarjana (निदान परिवर्जन)",
+    "category": "Chikitsa",
+    "shloka": "संक्षेपतः क्रियायोगो निदानपरिवर्जनम्।",
+    "shloka_ref": "(Sushruta Samhita, Uttaratantra 1/25)",
+    "explanation": "This principle states that 'in brief, the essence of treatment is the avoidance of the causative factors'. It is the first and most important step in any treatment plan. Before administering any medicine, the factors (diet, lifestyle, habits) that are causing the disease must be identified and removed.",
+    "clinical_importance": "This is the root-cause approach of Ayurveda. No amount of medicine can be effective if the patient continues to indulge in the very factors that are making them sick. This principle empowers the patient to take an active role in their own healing."
+},
+{
+    "name": "Prakritisthapana (प्रकृतिस्थापन)",
+    "category": "Chikitsa",
+    "shloka": "कार्यं प्रकृतेः स्थापनम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 16/35 - Interpreted)",
+    "explanation": "Prakritisthapana means 'to re-establish the natural state'. This is the ultimate goal of Ayurvedic treatment (Chikitsa). The aim is not just to suppress symptoms, but to eliminate the disease from its root and restore the body's innate, balanced constitution (Prakriti).",
+    "clinical_importance": "This principle defines the goal of a cure in Ayurveda. It involves bringing the doshas back to their natural state of equilibrium (Dosha Samya), thereby restoring health."
+},
+{
+    "name": "Bhaishajya Kala (भैषज्य काल)",
+    "category": "Chikitsa",
+    "shloka": "दश इमे भैषज्यकालः।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 13/21)",
+    "explanation": "This refers to the ten specific times for administering medicine, chosen to maximize its effect based on the dominant dosha and the disease. The times are: Abhakta (empty stomach), Pragbhakta (before food), Madhyabhakta (during a meal), Adhobhakta (after food), Sabhakta (mixed with food), Antarabhakta (between two meals), Samudga (at the start and end of a meal), Muhurmuhu (repeatedly), Sagrasa (with each morsel of food), and Grasāntara (between morsels).",
+    "clinical_importance": "The timing of medicine is as important as the medicine itself. For example, medicine for Apana Vayu disorders is often given before meals, while medicine for Udana Vayu disorders is given after meals. This knowledge is crucial for effective prescription."
+},
+
+
+{
+    "name": "Trividha Roga (त्रिविध रोग)",
+    "category": "Roga Nidana",
+    "shloka": "निजगन्तुमनोभवाः रोगाः।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/21 - Interpreted)",
+    "explanation": "Ayurveda classifies diseases into three main types based on their origin: 1. Nija (Endogenous), which arise from an internal imbalance of the doshas. 2. Agantuja (Exogenous), which are caused by external factors like injury, trauma, or infections. 3. Manasika (Psychological), which originate in the mind due to imbalances of Sattva, Rajas, and Tamas.",
+    "clinical_importance": "This classification helps in determining the primary line of treatment. While Agantuja rogas (like a fracture) require immediate physical intervention, Nija rogas require internal dosha-pacifying treatments."
+},
+{
+    "name": "Kha-Vaigunya (ख वैगुण्य)",
+    "category": "Roga Nidana",
+    "shloka": "दोषः प्रकुपितः स्वहेतुभिः ... यत्र सङ्गं खवैगुण्यात् व्याधिं तत्र करोति हि।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 24/9)",
+    "explanation": "Kha-Vaigunya means a 'defect in space' or a 'vitiated channel'. It refers to a weak, empty, or defective spot in a Srotas (body channel) or Dhatu (tissue). When doshas become aggravated, they circulate throughout the body but only manifest a disease at a site where such a pre-existing weakness is present.",
+    "clinical_importance": "This principle explains why the same cause can lead to different diseases in different people. It is the combination of an aggravated dosha and a weak site (Kha-Vaigunya) that determines the location and nature of the illness. Strengthening these weak spots is a key aspect of preventive medicine."
+},
+{
+    "name": "Dosha-Dushya Sammurchana (दोष दूष्य सम्मूर्छन)",
+    "category": "Roga Nidana",
+    "shloka": "यदा तु दूष्यं दोषेभ्यो बलवत्तरं भवति।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 35/33)",
+    "explanation": "This is the crux of pathogenesis (Samprapti). It is the specific, morbid interaction or amalgamation of the aggravated doshas (Dosha) with the susceptible tissues (Dushya) at a site of pre-existing weakness (Kha-Vaigunya). This interaction is the necessary step for the manifestation of a disease's symptoms.",
+    "clinical_importance": "Disease is not just the presence of an aggravated dosha, but its interaction with a body tissue. The entire goal of treatment is to break this interaction ('Samprapti Vighatana') by either pacifying the dosha or strengthening the dushya."
+},
+{
+    "name": "Nirama / Sama (निराम / साम)",
+    "category": "Roga Nidana",
+    "shloka": "लिङ्गं सामास्तदोषाणां स्रोतोरोधबलभ्रंशगौरवानिलमूढताः।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 13/26)",
+    "explanation": "This describes the state of the doshas as being either associated with Ama (Sama) or free from Ama (Nirama). Sama doshas are sticky, heavy, and cause blockages in the channels (Srotorodha), leading to weakness and heaviness. Nirama doshas are clear and move freely, and their symptoms are typically cleaner and less complicated.",
+    "clinical_importance": "This is a critical distinction in diagnosis and treatment. Treatments for Sama conditions focus on digesting Ama first (Amapachana) with light and digestive herbs. Strong detoxification therapies (Shodhana) or heavy nourishing therapies (Brimhana) are contraindicated until the Nirama state is achieved."
+},
+{
+    "name": "Ashta Nindita Purusha (अष्ट निन्दित पुरुष)",
+    "category": "Roga Nidana",
+    "shloka": "अतिदीर्घश्चातिह्रस्वश्चातिगौरश्चातिकृष्णकः। अतिस्थूलश्चातिकृशश्चातिलोमा चालोमकः॥",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 21/3)",
+    "explanation": "These are the eight 'despised' or undesirable physical constitutions that are prone to disease and considered to have a lower quality of life. They are: Ati-Dirgha (too tall), Ati-Hrasva (too short), Ati-Gaura (too fair), Ati-Krishna (too dark), Ati-Sthula (obese), Ati-Krisha (emaciated), Ati-Loma (excessively hairy), and A-Loma (hairless).",
+    "clinical_importance": "This concept highlights that extreme physical characteristics are deviations from the balanced state of health. It particularly emphasizes the health risks associated with obesity (Ati-Sthula) and emaciation (Ati-Krisha), which require specific management."
+},
+
+
+{
+    "name": "Dhatu Kshaya (धातु क्षय)",
+    "category": "Dhatu",
+    "shloka": "क्षयः वृद्धिः च दोषादीनां सामान्येन वर्णितः।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Dhatu Kshaya is the pathological decrease or depletion of any of the seven body tissues (Dhatus). Each Dhatu has specific signs of depletion. For example, Rakta Kshaya (decrease in blood) leads to dryness, pallor, and a desire for sour and cold substances. This state is caused by either inadequate nourishment or excessive activity.",
+    "clinical_importance": "Diagnosing which Dhatu is depleted is key to planning a nourishing (Brimhana) therapy. The treatment aims to restore the specific tissue through targeted diet and herbs."
+},
+{
+    "name": "Dhatu Vriddhi (धातु वृद्धि)",
+    "category": "Dhatu",
+    "shloka": "Concept described for each dhatu.",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 15)",
+    "explanation": "Dhatu Vriddhi is the pathological increase or excess of any of the seven body tissues. Each Dhatu has specific signs of its excess. For example, Meda Vriddhi (increase in fat tissue) leads to obesity, lethargy, and breathlessness on exertion.",
+    "clinical_importance": "Diagnosing Dhatu Vriddhi calls for reducing or lightening (Langhana/Lekhana) therapies. The treatment focuses on improving the metabolism of that specific tissue (Dhatvagni) and removing the excess."
+},
+{
+    "name": "Dhatu Mala (धातु मल)",
+    "category": "Mala",
+    "shloka": "Concept described contextually",
+    "shloka_ref": "(Commentaries)",
+    "explanation": "In addition to the three main Malas (feces, urine, sweat), each Dhatu produces its own subtle waste product during its metabolic process. For example, the Mala of Rasa Dhatu is Kapha, the Mala of Mamsa Dhatu is the waste in body orifices like the ears and nose, and the Mala of Meda Dhatu is Sweda (sweat).",
+    "clinical_importance": "The quantity and quality of these subtle malas provide diagnostic clues about the health of the corresponding Dhatvagni. Excessive or insufficient production indicates a metabolic disturbance in that specific tissue."
+},
+
+
+{
+    "name": "Yantra (यन्त्र)",
+    "category": "Chikitsa",
+    "shloka": "तत् यन्त्रं शतं एकोत्तरम्। तेषां हस्तमेव प्रधानतमं यन्त्रम्।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 7/3, 5)",
+    "explanation": "Yantras are the blunt surgical instruments used for various purposes like holding, pulling, and viewing. Sushruta described 101 different types of Yantras, classifying them into six main categories (e.g., Swastika, Sandamsha). He famously stated that the hand (Hasta) is the most important of all instruments.",
+    "clinical_importance": "For students of Shalya Tantra (surgery), this is the foundation of surgical instrumentation. The detailed description of these instruments demonstrates the advanced state of surgery in ancient India."
+},
+{
+    "name": "Shastra (शस्त्र)",
+    "category": "Chikitsa",
+    "shloka": "विंशतिः शस्त्राणि।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 8/3)",
+    "explanation": "Shastras are the sharp surgical instruments used for procedures like cutting, piercing, and scraping. Sushruta described 20 main types of Shastras, such as Mandalagra (round-headed knife), Vriddhipatra (razor), and Kushapatra (lancet). He gave detailed instructions on their construction, sharpness, and handling.",
+    "clinical_importance": "This is the basis of Ayurvedic surgical practice (Shalya Karma). The precision and variety of these instruments show the high level of surgical skill and anatomical knowledge that existed."
+},
+   
+
+
+
+{
+    "name": "Ayus (आयुस्)",
+    "category": "General Concepts",
+    "shloka": "शरीरेन्द्रियसत्त्वात्मसंयोगो धारि जीवितम्। नित्यगश्चानुबन्धश्च पर्यायैरायुरुच्यते॥",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 1/42)",
+    "explanation": "Ayus, or life, is defined as the conjunction of the Sharira (physical body), Indriya (sense organs), Sattva (mind), and Atma (soul). It is called 'Dhari' because it prevents the body from decaying, 'Jivita' because it keeps it alive, 'Nityaga' because it is transient, and 'Anubandha' because it binds one life to the next.",
+    "clinical_importance": "This definition establishes the four essential components of a living being. Ayurvedic treatment is holistic precisely because it aims to bring balance to all four aspects—the body, senses, mind, and soul—to promote a long and healthy life (Ayus)."
+},
+{
+    "name": "Ayurveda Avatarana (आयुर्वेदावतरण)",
+    "category": "General Concepts",
+    "shloka": "ब्रह्मा स्मृत्वाऽऽयुषो वेदं प्रजापतिमजिग्रहत्। सोऽश्विनौ तौ सहस्राक्षं सोऽत्रिपुत्रादिकान् मुनीन्॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/3)",
+    "explanation": "This describes the 'Descent of Ayurveda'. The knowledge of the science of life (Ayurveda) was first recalled by Lord Brahma (the creator), who then passed it to Daksha Prajapati. He taught it to the Ashvini Kumaras (the celestial twin physicians), who then taught it to Indra. From Indra, the knowledge was passed down to the great sages on Earth, such as Atreya and Dhanvantari.",
+    "clinical_importance": "This lineage establishes the divine and ancient origin of Ayurveda, giving it a sacred authority. For a BAMS student, understanding this 'Avatarana' is part of appreciating the tradition and history of their science."
+},
+
+
+{
+    "name": "Roga (रोग)",
+    "category": "Roga Nidana",
+    "shloka": "तद्दुःखसंयोगा रोगाः।",
+    "shloka_ref": "(Vaisheshika Sutra, cited by Chakrapani on Charaka Sutra 1/54)",
+    "explanation": "The definition of Roga (disease) is the 'conjunction with pain or suffering' (Duhkha Samyoga). Any state that brings discomfort, pain, or unhappiness to the body or mind is considered a disease. This highlights that disease is not just a physical ailment but any state that disrupts one's sense of well-being.",
+    "clinical_importance": "This broad definition emphasizes that the goal of a physician is to alleviate all forms of suffering, not just to correct lab reports. It validates the treatment of psychological and emotional distress as a core part of medicine."
+},
+{
+    "name": "Vyadhi Kshamatva (व्याधि क्षमत्व)",
+    "category": "Roga Nidana",
+    "shloka": "व्याधिक्षमत्वं नाम व्याधिबलविरोधित्वं व्याध्युत्पादप्रतिबन्धकत्वमिति यावत्।",
+    "shloka_ref": "(Chakrapani commentary on Charaka Sutra 28/7)",
+    "explanation": "Vyadhi Kshamatva is the Ayurvedic concept of immunity. It is defined in two ways: 1. Vyadhi Bala Virodhitvam (the capacity of the body to resist the strength of a manifested disease) and 2. Vyadhi Utpada Pratibandhakatvam (the capacity to prevent the manifestation of a disease in the first place). It is directly related to the quality of Ojas.",
+    "clinical_importance": "This concept is the basis of Ayurvedic immunology. Rather than focusing only on killing pathogens, Ayurveda emphasizes strengthening the host's own defense mechanisms (Bala and Ojas) so that disease does not take root. Rasayana therapies are primarily aimed at enhancing Vyadhi Kshamatva."
+},
+{
+    "name": "Sadhya-Asadhyata (साध्य-असाध्यता)",
+    "category": "Roga Nidana",
+    "shloka": "सुखसाध्यं कष्टसाध्यं याप्यं यच्चानुपक्रमम्।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/32)",
+    "explanation": "This refers to the prognosis of a disease, which is classified into four categories: 1. Sukha Sadhya (Easily Curable), 2. Krichhra Sadhya (Difficult to Cure), 3. Yapya (Manageable or Palliable, but not curable), and 4. Anupakrama or Asadhya (Incurable/Terminal).",
+    "clinical_importance": "Determining the prognosis is one of the most important skills of a physician. It helps in setting realistic expectations for the patient, deciding the appropriate intensity of treatment, and knowing when to refuse treatment for an incurable condition."
+},
+{
+    "name": "Kala-Artha-Karma Samyoga (काल-अर्थ-कर्म संयोग)",
+    "category": "Roga Nidana",
+    "shloka": "कालार्थकर्मणां योगो हीनमिथ्यातिमात्रकः। सम्यग्योगश्च विज्ञेयो रोगारोग्यैककारणम्॥",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/19-20)",
+    "explanation": "This triad represents the fundamental causes of health and disease. Roga (disease) is caused by the Heena (deficient), Mithya (improper), or Ati (excessive) yoga (conjunction) of Kala (time/seasons), Artha (objects of sense organs), and Karma (actions of body, mind, and speech). Arogya (health) is caused by their Samyak Yoga (balanced or proper conjunction).",
+    "clinical_importance": "This is a more detailed classification of Hetu (cause). For example, Ati-yoga of Artha is looking at very bright light; Mithya-yoga of Karma is suppressing natural urges. A physician diagnoses disease by identifying which of these conjunctions has occurred."
+},
+{
+    "name": "Desha (देश)",
+    "category": "Roga Nidana",
+    "shloka": "देशो भूमिरातुरश्च।",
+    "shloka_ref": "(Charaka Samhita, Vimanasthana 8/94)",
+    "explanation": "Desha refers to 'place' and is considered in two contexts: 1. Bhumi Desha (the geographical region, including its climate and environment) and 2. Deha Desha (the body of the patient, including the specific site of the disease). Ayurveda recognizes three main types of Bhumi Desha: Jangala (arid), Anupa (marshy), and Sadharana (moderate).",
+    "clinical_importance": "A diagnosis is incomplete without considering Desha. The prevalence of certain doshas and diseases is higher in specific geographical regions (e.g., Kapha disorders in Anupa Desha). Furthermore, treatment must be adapted to the patient's location and environment."
+},
+
+
+{
+    "name": "Apatarpana & Santarpana (अपतर्पण & संतर्पण)",
+    "category": "Chikitsa",
+    "shloka": "द्विविध उपक्रमः- एकः संतर्पणः, द्वितीयः अपतर्पणः।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 22/4)",
+    "explanation": "These are the two primary categories of treatment. 1. Santarpana is nourishing, building, or oleating therapy, used to treat conditions of deficiency (Kshaya), emaciation, and Vata disorders. 2. Apatarpana is depleting, lightening, or reducing therapy, used to treat conditions of excess (Vriddhi), obesity, and Kapha disorders. Langhana is a type of Apatarpana.",
+    "clinical_importance": "This is the first major decision in treatment planning. The physician must decide whether the underlying pathology is one of deficiency requiring nourishment, or one of excess requiring reduction. Applying the wrong one can be harmful."
+},
+{
+    "name": "Shad-Upakrama (षडुपक्रम)",
+    "category": "Chikitsa",
+    "shloka": "लङ्घनं बृंहणं रूक्षणं स्नेहनं स्वेदनं स्तम्भनमिति षडुपक्रमाः।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 22/4)",
+    "explanation": "These are the six main therapeutic modalities that form the basis of all Ayurvedic treatments. They are: 1. Langhana (lightening/reducing), 2. Brimhana (nourishing/building), 3. Rukshana (drying), 4. Snehana (oleating/moistening), 5. Swedana (sudation/fomenting), and 6. Stambhana (stopping/astringent).",
+    "clinical_importance": "These six principles are the practical tools of treatment. Every substance and therapy can be classified under one of these six headings. For example, to treat a condition that is heavy and oily (Kapha), the physician applies therapies that are light (Langhana) and dry (Rukshana)."
+},
+{
+    "name": "Samsodhana / Samshamana (संशोधन / संशमन)",
+    "category": "Chikitsa",
+    "shloka": "शोधनं शमनं चेति समासाद् औषधं द्विधा।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 22/3)",
+    "explanation": "This is another way of classifying treatment into two main types. 1. Samshodhana (or Shodhana) is purificatory therapy that expels aggravated doshas from the body (e.g., Panchakarma). 2. Samshamana (or Shamana) is palliative therapy that pacifies the aggravated doshas within the body without eliminating them.",
+    "clinical_importance": "This is the fundamental division of internal medicine (Kayachikitsa). Shodhana is chosen for strong patients with deep-seated imbalances, offering a radical cure. Shamana is chosen for weaker patients or for milder conditions, offering symptomatic relief and gradual pacification."
+},
+
+
+{
+    "name": "Marma (मर्म)",
+    "category": "General Concepts",
+    "shloka": "मर्माणि मांससिरास्नाय्वस्थिसन्धिसन्निपाताः। तेषु स्वभावत एव विशेषेण प्राणास्तिष्ठन्ति॥",
+    "shloka_ref": "(Sushruta Samhita, Sharirasthana 6/16)",
+    "explanation": "Marmas are vital points or junctions in the body where two or more types of tissues—such as muscles (Mamsa), vessels (Sira), ligaments (Snayu), bones (Asthi), and joints (Sandhi)—meet. Sushruta states that Prana (the life force) resides specially in these points. He described 107 such points in the body.",
+    "clinical_importance": "Injury to a Marma point can cause severe pain, disability, or even instant death. Knowledge of these points is critical for surgeons to avoid them, and for therapists who use Marma therapy (a type of acupressure) to stimulate the flow of Prana and promote healing."
+},
+{
+    "name": "Sandhi (सन्धि)",
+    "category": "General Concepts",
+    "shloka": "द्विविधास्तु सन्धयो चेष्टावन्तः स्थिराश्च।",
+    "shloka_ref": "(Sushruta Samhita, Sharirasthana 5/30)",
+    "explanation": "Sandhi refers to the joints or articulations in the body where two or more bones meet. Sushruta classified them broadly into two types: 1. Cheshtavanta (movable joints, like the knee or elbow) and 2. Sthira (fixed or immovable joints, like the sutures of the skull). He further classified them into eight types based on their shape (e.g., Ulukhala - ball and socket).",
+    "clinical_importance": "Anatomy of the joints is fundamental to understanding and treating musculoskeletal disorders like arthritis (Sandhigata Vata). Shleshaka Kapha is the specific sub-dosha responsible for lubricating the joints."
+},
+
+
+{
+    "name": "Yogavahi (योगवाहि)",
+    "category": "Dravya Guna",
+    "shloka": "योगवाहि परं मधु।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 27/243)",
+    "explanation": "Yogavahi is the catalytic or synergistic property of a substance. A Yogavahi substance, when combined with another herb, carries and enhances the properties of that herb without losing its own properties. Honey (Madhu) is considered the best Yogavahi. Ghee and mercury are other examples.",
+    "clinical_importance": "This property is extensively used in formulating medicines. Honey is used as an Anupana (vehicle) for Kapha-pacifying herbs because it helps scrape the channels while delivering the herb's action more effectively."
+},
+{
+    "name": "Samskara (संस्कार)",
+    "category": "Dravya Guna",
+    "shloka": "संस्कारो हि गुणान्तराधानमुच्यते।",
+    "shloka_ref": "(Charaka Samhita, Vimanasthana 1/22)",
+    "explanation": "Samskara is the process of transformation or potentiation, where the inherent qualities (Gunas) of a substance are modified by specific processing. This can involve simple actions like heating or grinding, or complex procedures like Shodhana (purification of toxic substances) or creating fermented liquids (Asava-Arishta).",
+    "clinical_importance": "Samskara is the basis of Ayurvedic pharmaceutics (Bhaishajya Kalpana). Through specific processing, a toxic substance like Vatsanabha (Aconite) can be made into a life-saving medicine. Similarly, the properties of a simple food like rice change drastically when it is made into puffed rice (Laja), making it lighter and easier to digest."
+},
+{
+    "name": "Veerya Vichitra Pratyayarabdha",
+    "category": "Dravya Guna",
+    "shloka": "Concept explained through exceptions",
+    "shloka_ref": "(Dravya Guna Texts)",
+    "explanation": "This principle describes substances whose action (Karma) aligns with their potency (Virya), even if it contradicts their taste (Rasa). It is an exception to the general rule that Rasa determines Virya. For example, honey has a sweet taste (which is generally cooling), but its potency is heating (Ushna Virya). Its action follows its heating potency.",
+    "clinical_importance": "This is a key concept for advanced students of Dravya Guna. It explains why some herbs have actions that seem counterintuitive based on their taste alone, emphasizing the importance of understanding all five properties (Rasa, Guna, Virya, Vipaka, Prabhava)."
+},
+   
+
+
+
+{
+    "name": "Dhatu Poshana Nyaya: Kedari Kulya (केदारि-कुल्या न्याय)",
+    "category": "Dhatu",
+    "shloka": "Analogy-based principle",
+    "shloka_ref": "(Commentaries of Chakrapani & Dalhana)",
+    "explanation": "This is the 'Law of Irrigation'. It explains that the nutrient fluid (Ahara Rasa) circulates throughout the body like water flowing through irrigation channels (Kulya) in a field (Kedari). As it circulates, each Dhatu takes the specific nourishment it requires, all at the same time. This explains the simultaneous nourishment of all body tissues.",
+    "clinical_importance": "This law explains how a highly potent and fast-acting substance, like a Rasayana, can provide quick nourishment and effects to all seven tissues simultaneously."
+},
+{
+    "name": "Dhatu Poshana Nyaya: Ksheera Dadhi (क्षीर-दधि न्याय)",
+    "category": "Dhatu",
+    "shloka": "Analogy-based principle",
+    "shloka_ref": "(Commentaries of Chakrapani & Dalhana)",
+    "explanation": "This is the 'Law of Transformation' or the 'Milk into Curd' analogy. It states that each Dhatu must fully transform into the next one in a sequential order, just as milk must completely become curd before it can be churned into butter. This means Rasa Dhatu completely transforms into Rakta, Rakta into Mamsa, and so on. This process takes time.",
+    "clinical_importance": "This law is crucial for understanding the chronicity of diseases. A defect in an early Dhatu (like Rasa) will inevitably lead to a defect in all subsequent Dhatus, explaining the systemic nature of metabolic disorders."
+},
+{
+    "name": "Dhatu Poshana Nyaya: Khale Kapota (खले-कपोत न्याय)",
+    "category": "Dhatu",
+    "shloka": "Analogy-based principle",
+    "shloka_ref": "(Commentaries of Chakrapani & Dalhana)",
+    "explanation": "This is the 'Law of Selective Uptake' or the 'Pigeon on a Threshing Floor' analogy. It explains that each Dhatu selectively picks up its required nourishing factors from the circulating nutrient pool (Ahara Rasa), just as different pigeons (Kapota) fly to a threshing floor (Khale) and pick up the specific grains they need. This emphasizes the selective intelligence of each Dhatu.",
+    "clinical_importance": "This law helps explain organ-specific or tissue-specific diseases. It also forms the basis for targeted therapies, where a medicine is chosen to specifically nourish a particular Dhatu that is deficient."
+},
+{
+    "name": "Vyadhi Ghataka (व्याधि घटक)",
+    "category": "Roga Nidana",
+    "shloka": "Concept synthesized from Samprapti",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Vyadhi Ghatakas are the essential components or factors that come together to form a disease. They are the key elements of pathogenesis (Samprapti), and include: Dosha (the vitiating factor), Dushya (the vitiated tissue), Agni (the state of metabolic fire), Ama (the presence of toxins), Srotas (the channels involved), Sroto Dushti (the nature of the channel blockage), and Adhishthana (the site of manifestation).",
+    "clinical_importance": "A complete diagnosis and treatment plan must address all the Vyadhi Ghatakas. Simply pacifying a dosha is not enough if the underlying Ama, Agni disturbance, or Srotorodha is not corrected."
+},
+
+
+{
+    "name": "Sama Agni (सम अग्नि)",
+    "category": "Agni",
+    "shloka": "समदोषः समाग्निश्च...",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 15/41)",
+    "explanation": "Sama Agni is the state of balanced metabolic fire. In this state, a person can digest a reasonable quantity of all types of food at the right time without any discomfort. This leads to the perfect nourishment of all Dhatus and a state of complete health (Swastha). It is the ideal state of Agni.",
+    "clinical_importance": "Achieving and maintaining Sama Agni is the primary goal of all Ayurvedic dietary and lifestyle interventions. It is the root of health."
+},
+{
+    "name": "Vishama Agni (विषम अग्नि)",
+    "category": "Agni",
+    "shloka": "वातलानां... विषमः।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 35/32)",
+    "explanation": "Vishama Agni is the irregular or variable state of metabolic fire, predominantly caused by an imbalance of Vata dosha. Just as wind makes a fire erratic, this Agni is sometimes strong and sometimes weak, leading to unpredictable appetite, gas, bloating, and constipation.",
+    "clinical_importance": "This is characteristic of Vata-prakriti individuals or Vata disorders. Treatment involves establishing a regular routine (Dinacharya) and using carminative herbs to stabilize Agni."
+},
+{
+    "name": "Tikshna Agni (तीक्ष्ण अग्नि)",
+    "category": "Agni",
+    "shloka": "पित्तलानां तीक्ष्णः।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 35/32)",
+    "explanation": "Tikshna Agni is the hypermetabolic or overly sharp state of fire, predominantly caused by an imbalance of Pitta dosha. Like a wildfire, it burns through food too quickly, leading to intense hunger ('hangry'), hyperacidity, heartburn, and loose stools.",
+    "clinical_importance": "This is characteristic of Pitta-prakriti individuals or Pitta disorders. Treatment involves using cooling and substantial foods and herbs to calm the excessive heat and intensity of the digestive fire."
+},
+{
+    "name": "Manda Agni (मन्द अग्नि)",
+    "category": "Agni",
+    "shloka": "श्लेष्मलानां मन्दः।",
+    "shloka_ref": "(Sushruta Samhita, Sutrasthana 35/32)",
+    "explanation": "Manda Agni is the hypometabolic or dull state of fire, predominantly caused by an imbalance of Kapha dosha. Like a fire smothered by damp wood, it is slow and sluggish, leading to a low appetite, heaviness after meals, slow digestion, and significant Ama formation.",
+    "clinical_importance": "This is characteristic of Kapha-prakriti individuals and is the most common cause of Ama accumulation and related diseases like obesity and diabetes. Treatment involves using stimulating, light, and pungent herbs (like Trikatu) to rekindle the digestive fire."
+},
+
+
+{
+    "name": "Ojo Vyapat (ओजो व्यापत्)",
+    "category": "Dhatu",
+    "shloka": "त्रिविधो ओजो व्यापत् - विस्रंसः, व्यापद्, क्षयः।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 17/73 - Interpreted)",
+    "explanation": "Ojo Vyapat refers to the pathological states or disorders of Ojas. There are three types: 1. Ojo-Visramsa (Displacement of Ojas), leading to symptoms like fatigue and joint laxity. 2. Ojo-Vyapat (Disturbance of Ojas), where its qualities are vitiated, leading to symptoms like stiffness and edema. 3. Ojo-Kshaya (Depletion of Ojas), the most severe state, leading to loss of consciousness, muscle wasting, and death.",
+    "clinical_importance": "Diagnosing the specific type of Ojas disorder is crucial. While all require rejuvenative (Rasayana) therapy, the specific approach will differ. Ojo-Kshaya is a medical emergency."
+},
+
+
+{
+    "name": "Pramana: Aptopadesha (प्रमाण: आप्तोपदेश)",
+    "category": "General Concepts",
+    "shloka": "आप्तास्तु खलु रजस्तमोभ्यां निर्मुक्तास्तपोज्ञानबलेन...।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/19)",
+    "explanation": "Aptopadesha, or authoritative testimony, is the knowledge received from an 'Apta'—a reliable, trustworthy source. In Ayurveda, an Apta is defined as a sage or expert who is free from the mental impurities of Rajas and Tamas and who possesses supreme knowledge. The classical Samhitas (Charaka, Sushruta, etc.) are considered Aptopadesha.",
+    "clinical_importance": "This is the primary source of Ayurvedic knowledge. A student first learns by studying the infallible words of the classical texts before verifying them with their own perception and reasoning."
+},
+{
+    "name": "Pramana: Pratyaksha (प्रमाण: प्रत्यक्ष)",
+    "category": "General Concepts",
+    "shloka": "इन्द्रिय-मनो-अर्थ-सन्निकर्षाद् यत् ज्ञानं प्रवर्तते, तत् प्रत्यक्षम्।",
+    "shloka_ref": "(Nyaya Sutra - Interpreted)",
+    "explanation": "Pratyaksha is direct perception—the knowledge gained through the contact of the sense organs (Indriya) with their objects (Artha), processed by the mind (Manas). This is the basis of all empirical observation.",
+    "clinical_importance": "This is the foundation of clinical examination (Pariksha). Everything a physician sees (Darshana), feels (Sparshana), and hears (Shabda) from the patient is a form of Pratyaksha knowledge."
+},
+{
+    "name": "Pramana: Anumana (प्रमाण: अनुमान)",
+    "category": "General Concepts",
+    "shloka": "प्रत्यक्षपूर्वं त्रिविधं त्रिकालं चानुमीयते।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 11/21-22)",
+    "explanation": "Anumana is inference—the logical conclusion drawn based on prior direct perception. For example, one directly perceives smoke (Hetu) and infers the unseen presence of fire (Sadhya), based on the prior knowledge of their invariable relationship (Vyapti). Ayurveda uses it to understand past, present, and future events.",
+    "clinical_importance": "A physician uses Anumana constantly. For example, by observing a patient's symptoms (Pratyaksha), the physician infers the underlying doshic imbalance (Anumana). The state of Agni is also inferred from digestive capacity, not seen directly."
+},
+{
+    "name": "Karya-Karana Bhava (कार्य-कारण भाव)",
+    "category": "General Concepts",
+    "shloka": "नास्ति हि अकारणात् कार्य उत्पत्तिः।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "This is the 'Cause and Effect' relationship, a fundamental law of logic. It states that every effect (Karya) has a cause (Karana), and the effect is latently present in the cause before its manifestation. For example, a pot (effect) is pre-existent in the clay (cause).",
+    "clinical_importance": "This principle is the basis of pathology. Every disease (Karya) has a specific cause or set of causes (Hetu). The primary goal of a physician is to identify and remove the Karana to permanently resolve the Karya."
+},
+
+
+{
+    "name": "Brimhana (बृंहण)",
+    "category": "Chikitsa",
+    "shloka": "बृंहणं यत् शरीरस्य धातून् आप्याययति।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Brimhana is nourishing or building therapy, one of the Shad-Upakrama. Its action is to increase and nourish the body tissues (Dhatus), promoting bulk and strength. It has qualities opposite to Langhana (lightening therapy). Substances that are heavy (Guru), oily (Snigdha), and sweet (Madhura) like ghee, meat soup, and milk are typically Brimhana.",
+    "clinical_importance": "This therapy is indicated for conditions of emaciation (Karshya), debility, convalescence, and Vata-dominant disorders. It is the primary method for treating Dhatu Kshaya (tissue depletion)."
+},
+{
+    "name": "Rukshana (रूक्षण)",
+    "category": "Chikitsa",
+    "shloka": "रूक्षणं यत् शरीरस्य स्नेहम शोषयति।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Rukshana is drying therapy, one of the Shad-Upakrama. Its action is to absorb excess fluid and oiliness from the body. It has qualities opposite to Snehana (oleation). Substances that are dry (Ruksha), light (Laghu), and rough (Khara), like barley and buttermilk, have a Rukshana effect.",
+    "clinical_importance": "This therapy is indicated for conditions of excess oiliness, heaviness, and blockage caused by Kapha and Ama. It is used to treat obesity, edema, and high cholesterol."
+},
+{
+    "name": "Stambhana (स्तम्भन)",
+    "category": "Chikitsa",
+    "shloka": "स्तम्भनं यत् गतीनां रोधनं करोति।",
+    "shloka_ref": "(Classical Interpretation)",
+    "explanation": "Stambhana is stopping or astringent therapy, one of the Shad-Upakrama. Its action is to stop or retard the excessive flow of bodily fluids. It has qualities opposite to Swedana (sudation). Substances that are cold (Sheeta), dry (Ruksha), and astringent (Kashaya), like Kutaja or unripe Bael fruit, have a Stambhana effect.",
+    "clinical_importance": "This therapy is used to treat conditions like diarrhea (Atisara), vomiting (Chhardi), and various bleeding disorders (Raktapitta). It must be used cautiously, as improperly stopping a flow can cause toxins to be trapped."
+},
+{
+    "name": "Lekhana (लेखन)",
+    "category": "Chikitsa",
+    "shloka": "लेखनं यत् शरीरस्य धातून् मलांश्चापि कर्षयेत्।",
+    "shloka_ref": "(Sharngadhara Samhita, Purva Khanda 4/14)",
+    "explanation": "Lekhana is a scraping or emaciating therapy. Its action is to scrape away excess or abnormal tissues (Dhatus) and toxins (Malas) from the channels (Srotas). It is a more intense form of Rukshana. Substances that are dry, rough, light, and sharp, like honey, warm water, and Guggulu, have a Lekhana effect.",
+    "clinical_importance": "This therapy is specifically indicated for conditions like obesity (Sthaulya), high cholesterol, tumors, and deep-seated Kapha accumulations. It is a powerful method for clearing blockages in the channels."
+},
+
+
+{
+    "name": "Sannipata (सन्निपात)",
+    "category": "Roga Nidana",
+    "shloka": "त्रयाणामपि दोषाणां सन्निपाताद्...।",
+    "shloka_ref": "(Charaka Samhita, Vimanasthana 6/6)",
+    "explanation": "Sannipata is a complex pathological state where all three doshas (Vata, Pitta, and Kapha) are simultaneously aggravated. This leads to a mixture of contradictory and severe symptoms, making the condition very difficult to diagnose and treat.",
+    "clinical_importance": "Sannipata conditions are almost always considered 'Krichhra Sadhya' (difficult to cure) or 'Asadhya' (incurable). The treatment requires great skill, as pacifying one dosha can easily aggravate another. The physician must identify the most dominant dosha and treat it first without aggravating the others."
+},
+{
+    "name": "Urustambha (उरुस्तम्भ)",
+    "category": "Roga Nidana",
+    "shloka": "आममेदःकफानिलैः... उरुस्तम्भः।",
+    "shloka_ref": "(Madhava Nidana 22/1)",
+    "explanation": "Urustambha, or 'stiffness of the thighs', is a unique disease condition described in Ayurveda. It is caused by the obstruction of Vata's movement in the thighs by an accumulation of Ama, Meda (fat), and Kapha. This results in stiffness, immobility, and a cold sensation in the legs. It is specifically mentioned that the five Panchakarma procedures are contraindicated in this condition.",
+    "clinical_importance": "This is a classic example of a complex Avarana pathology. It teaches the physician that not all Vata disorders should be treated with oleation (Snehana) or enemas (Basti), as these would worsen the underlying Kapha and Ama."
+},
+{
+    "name": "Grahani (ग्रहणी)",
+    "category": "Roga Nidana",
+    "shloka": "अग्नेरधिष्ठानमन्नस्य ग्रहणाद् ग्रहणी मता।",
+    "shloka_ref": "(Charaka Samhita, Chikitsasthana 15/56)",
+    "explanation": "Grahani is the seat of Agni (digestive fire), identified as the small intestine (specifically the duodenum). Its function is to 'grasp' or hold onto the food (Grahana) until it is properly digested. The term Grahani is also used for the disease that occurs when this function is impaired due to a weak Agni. The cardinal symptom is passing undigested food, often alternating between constipation and diarrhea.",
+    "clinical_importance": "Grahani Roga corresponds to a wide range of modern intestinal disorders like Irritable Bowel Syndrome (IBS), malabsorption, and Crohn's disease. Its treatment is complex and focuses entirely on restoring the function of Agni."
+},
+  {
+    "name": "Agraya Dravya (अग्र्य द्रव्य)",
+    "category": "General Concepts",
+    "shloka": "A list of 'best' substances for specific conditions.",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 25)",
+    "explanation": "Agraya Dravyas are the 'foremost' or 'best' substances (herbs, foods, or actions) recommended for a specific condition or purpose. Charaka Samhita dedicates a full chapter to this, listing 152 foremost items. For example, 'Amalaki is the best among anti-aging substances (Vayasthapana)', and 'Lavana (salt) is the best for enhancing taste (Ruchikaranam)'.",
+    "clinical_importance": "This list provides a quick and authoritative reference for clinical practice. When a physician wants the most effective substance for a particular action, they can refer to the Agraya Sangraha. It's a key chapter for students to memorize."
+},
+{
+    "name": "Garbha (गर्भ)",
+    "category": "General Concepts",
+    "shloka": "शुक्रशोणितं गर्भाशयस्थमात्मप्रकृतिविकारसम्मूच्छितं गर्भ इत्युच्यते।",
+    "shloka_ref": "(Sushruta Samhita, Sharirasthana 5/3)",
+    "explanation": "Garbha, the embryo, is defined as the combination of Shukra (sperm), Shonita (ovum), and Atma (the soul) in the Garbhashaya (uterus), along with the Vikaras (derivatives of the Pancha Mahabhutas). This definition emphasizes that life is not merely a biological combination but the infusion of consciousness (Atma) into matter.",
+    "clinical_importance": "This is the basis of Ayurvedic embryology (Garbha Sharira) and pre-natal care (Garbhini Paricharya). Understanding the formation of the embryo is essential for managing pregnancy and treating congenital disorders."
+},
+{
+    "name": "Garbhakara Bhava (गर्भकर भाव)",
+    "category": "General Concepts",
+    "shloka": "मातृजः पितृजः आत्मजः सात्म्यजः रसजः सत्त्वजश्चेति षड् भावाः।",
+    "shloka_ref": "(Charaka Samhita, Sharirasthana 3/3 - Interpreted)",
+    "explanation": "These are the six procreative factors responsible for the formation and development of the fetus. They are: Matrija (derived from the mother, e.g., soft tissues), Pitrija (derived from the father, e.g., hard tissues), Atmaja (derived from the soul, e.g., consciousness, lifespan), Satmyaja (derived from the mother's assimilated diet during pregnancy), Rasaja (derived from the nourishing fluid of the mother), and Sattvaja (derived from the mind).",
+    "clinical_importance": "This concept explains the holistic nature of embryological development. It highlights the importance of the parents' physical health, mental state, and the mother's diet during pregnancy in determining the health of the child."
+},
+{
+    "name": "Koshta (कोष्ठ)",
+    "category": "Roga Nidana",
+    "shloka": "क्रूरो मृदुर्मध्यमश्च कोष्ठः।",
+    "shloka_ref": "(Ashtanga Hrudayam, Sutrasthana 1/8 - context)",
+    "explanation": "Koshta refers to the nature of the bowel movements, which is a key indicator of one's digestive health and doshic predominance. It is classified into three types: 1. Krura Koshta (Hard/constipated bowels, typical of Vata), 2. Mridu Koshta (Soft/loose bowels, typical of Pitta), and 3. Madhyama Koshta (Normal/regular bowels, typical of Kapha and a balanced state).",
+    "clinical_importance": "Assessing a patient's Koshta is essential before administering any purgative therapy (Virechana) or laxative herbs. The dosage and type of herb must be adjusted based on the patient's natural bowel tendency to avoid under- or over-dosing."
+},
+{
+    "name": "Moksha (मोक्ष)",
+    "category": "General Concepts",
+    "shloka": "धर्मार्थकाममोक्षाणामारोग्यं मूलमुत्तमम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 1/15)",
+    "explanation": "Moksha is the ultimate goal of life in Indian philosophy, meaning liberation, emancipation, or spiritual freedom from the cycle of birth and death (Samsara). While Ayurveda focuses on the first three goals (Dharma - righteous duty, Artha - wealth, Kama - desire), it explicitly states that the foundation for achieving all four goals, including Moksha, is Arogya (health).",
+    "clinical_importance": "This places health in a spiritual context. The purpose of maintaining a healthy body and mind is not just for worldly pleasure, but to provide a stable vehicle for spiritual growth and the pursuit of liberation."
+},
+  {
+    "name": "Bhaishajya Kalpana: Panchavidha Kashaya (पञ्चविध कषाय कल्पना)",
+    "category": "Dravya Guna",
+    "shloka": "स्वरसः कल्कः क्वाथः हिमः फाण्टश्चेति पञ्चविध कषायकल्पना।",
+    "shloka_ref": "(Sharngadhara Samhita, Madhyama Khanda 1/1-2)",
+    "explanation": "These are the five primary pharmaceutical preparations of herbs. They are: 1. Swarasa (expressed fresh juice), 2. Kalka (herbal paste), 3. Kwatha (decoction), 4. Hima (cold infusion), and 5. Phanta (hot infusion). Each preparation has a different potency and is used for different stages of a disease.",
+    "clinical_importance": "This is the foundation of Ayurvedic pharmaceutics. The choice of preparation depends on the strength of the patient and the disease. Swarasa is the most potent (Guru), while Phanta is the lightest (Laghu)."
+},
+
+
+{
+    "name": "Dhoomapana (धूमपान)",
+    "category": "Chikitsa",
+    "shloka": "Concept described in detail.",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 5)",
+    "explanation": "Dhoomapana is the inhalation of medicated smoke. It is a specific therapy used to treat diseases of the head and neck region, especially those caused by Vata and Kapha imbalances. Different types are prescribed for different purposes: Prayogika (daily use), Snehana (oleating), and Virechana (purifying).",
+    "clinical_importance": "It is a highly effective procedure for conditions like chronic sinusitis, heaviness in the head, cough, and certain types of headaches. The specific herbs used in the smoke determine its therapeutic action."
+},
+{
+    "name": "Gandusha & Kavala (गण्डूष & कवल)",
+    "category": "Chikitsa",
+    "shloka": "Concept described in detail.",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 5)",
+    "explanation": "These are two types of oral therapies. Gandusha involves holding a larger quantity of medicated liquid (oil or decoction) in the mouth without moving it. Kavala involves holding a smaller quantity and gargling or swishing it around. These procedures are part of the daily routine (Dinacharya).",
+    "clinical_importance": "These therapies are used to strengthen the jaw and voice, improve taste perception, and treat a wide range of oral and systemic diseases, from bleeding gums and mouth ulcers to anorexia and neck stiffness. Oil pulling is a modern adaptation of this practice."
+},
+{
+    "name": "Aschotana & Anjana (आश्चोतन & अञ्जन)",
+    "category": "Chikitsa",
+    "shloka": "Concept described in detail.",
+    "shloka_ref": "(Sushruta Samhita, Uttaratantra)",
+    "explanation": "These are two types of ocular therapies. Aschotana is the administration of medicated liquid drops into the eyes from a specific height. Anjana is the application of medicated collyrium or paste to the inner lining of the eyelids. These are used to treat various eye diseases.",
+    "clinical_importance": "These local treatments are fundamental to Ayurvedic ophthalmology (Shalakya Tantra). Anjana, in particular, is also recommended as a daily routine (Dinacharya) to protect the eyes and enhance vision."
+},
+  
+
+{
+    "name": "Ashraya-Ashrayi Bhava (आश्रय-आश्रयि भाव)",
+    "category": "Dhatu",
+    "shloka": "Concept described contextually",
+    "shloka_ref": "(Commentaries)",
+    "explanation": "This is the 'Relationship of the Container and the Contained'. It describes the intimate relationship between the Doshas (the contained, Ashrayi) and the Dhatus/Malas (the container, Ashraya). For example, the primary seat of Vata is Asthi Dhatu (bone), the seat of Pitta is Rakta Dhatu (blood) and Sweda (sweat), and the seat of Kapha is the rest of the Dhatus and Malas.",
+    "clinical_importance": "This relationship is crucial for treatment. Often, treating the container (Ashraya) also treats the contained (Ashrayi), and vice versa. For example, in osteoporosis (Asthi Kshaya), a Vata disorder, therapies that nourish the bone (like milk Basti) also pacify Vata."
+},
+
+
+{
+    "name": "Satkaryavada (सत्कार्यवाद)",
+    "category": "General Concepts",
+    "shloka": "असदकरणादुपादानग्रहणात् सर्वसम्भवाभावात्। शक्तस्य शक्यकरणात् कारणभावाच्च सत्कार्यम्॥",
+    "shloka_ref": "(Sankhya Karika 9)",
+    "explanation": "Satkaryavada is the 'Theory of a Pre-existent Effect'. It is a core principle of Sankhya philosophy which states that the effect (Karya) already exists in a latent, unmanifest form within its material cause (Upadana Karana) before it is produced. For example, the pot already exists within the clay; the process of pottery only makes it manifest.",
+    "clinical_importance": "This philosophical concept reinforces the Ayurvedic view of cause and effect. It implies that diseases do not appear from nothing; the potential for them exists within the body due to imbalances, and causative factors simply manifest them. Treatment is therefore aimed at transforming the cause rather than just destroying the effect."
+},
+{
+    "name": "Purushartha (पुरुषार्थ)",
+    "category": "General Concepts",
+    "shloka": "धर्मार्थकाममोक्षाणाम् आरोग्यं मूलमुत्तमम्।",
+    "shloka_ref": "(Charaka Samhita, Sutrasthana 1/15)",
+    "explanation": "The Purusharthas are the four primary aims of human life. They are: 1. Dharma (righteous living, duty, ethics), 2. Artha (wealth, material prosperity), 3. Kama (desire, pleasure, fulfillment), and 4. Moksha (liberation, spiritual freedom). The verse famously states that Arogya (health) is the best foundation for achieving all four of these aims.",
+    "clinical_importance": "This principle gives a profound context to the practice of medicine. The role of a physician is not just to cure disease, but to provide individuals with the health necessary to pursue a meaningful and fulfilling life in all its aspects."
+}
+]
