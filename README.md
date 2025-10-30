@@ -1,4 +1,5 @@
-# 📜 Siddhanta Kosha: An Encyclopedia of Ayurvedic Principles
+# 📜 Siddhanta Kosha: An Encyclopedia of Ayurvedic Principles  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17481343.svg)](https://doi.org/10.5281/zenodo.17481343)
 
 This repository contains the **Siddhanta Kosha**, a curated, open-source JSON dataset of **162 core foundational principles of Ayurveda**.
 
@@ -60,9 +61,7 @@ fetch('siddhanta-kosha.json')
 If you use this dataset in your research, software, or publication, please cite it:
 
 > Varshney, Sparsh. (2025). *Siddhanta Kosha: A Curated JSON Dataset of 162 Core Ayurvedic Principles* (Version 1.0.0) [Data set]. Zenodo.  
-> https://doi.org/10.5281/zenodo.XXXXXXX
-
-(Replace the XXXXXXX with your actual DOI after Zenodo upload.)
+> https://doi.org/10.5281/zenodo.17481343
 
 ---
 
